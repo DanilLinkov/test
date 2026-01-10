@@ -8,6 +8,10 @@ on:
         required: true
         type: string
 
+permissions:
+  contents: write
+  pages: write
+
 jobs:
   scrape-single:
     runs-on: ubuntu-latest
