@@ -1,0 +1,192 @@
+{
+  "term": "sprinkle coconut flakes",
+  "slug": "sprinkle-coconut-flakes",
+  "scrapedAt": "2026-01-10T08:00:35.983Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_607069",
+        "name": "Macro Organic Coconut Flakes",
+        "brand": "Macro",
+        "price": 3.5,
+        "unitPrice": "$1.75 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/607069",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/607069.jpg"
+      },
+      {
+        "id": "ww_608620",
+        "name": "Macro Organic Toasted Coconut Flakes With Sea Salt",
+        "brand": "Macro",
+        "price": 3.8,
+        "unitPrice": "$2.71 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/608620",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/608620.jpg"
+      },
+      {
+        "id": "ww_251036",
+        "name": "McKenzie's Coconut Moist Flakes",
+        "brand": "McKenzie's",
+        "price": 4.15,
+        "unitPrice": "$18.44 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/251036",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/251036.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_5228822",
+        "name": "Moist Coconut Flakes",
+        "brand": "McKenzie's",
+        "price": 4.15,
+        "unitPrice": "$18.44 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5228822",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5228822.jpg"
+      },
+      {
+        "id": "coles_3406114",
+        "name": "Wellness Road Organic Coconut Flakes",
+        "brand": "Coles",
+        "price": 3.5,
+        "unitPrice": "$17.50 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3406114",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3406114.jpg"
+      },
+      {
+        "id": "coles_2777799",
+        "name": "Shaved Coconut",
+        "brand": "McKenzie's",
+        "price": 4.15,
+        "unitPrice": "$27.67 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2777799",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2777799.jpg"
+      },
+      {
+        "id": "coles_3059928",
+        "name": "Frozen Coconut Chunks",
+        "brand": "Creative Gourmet",
+        "price": 5.65,
+        "unitPrice": "$18.83 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3059928",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3059928.jpg"
+      },
+      {
+        "id": "coles_3258662",
+        "name": "Coconuts For Mango Frozen Dessert 6 Pack",
+        "brand": "Proud & Punch",
+        "price": 5.5,
+        "unitPrice": "$1.22 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3258662",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3258662.jpg"
+      },
+      {
+        "id": "coles_2591940",
+        "name": "Coconut Drops",
+        "brand": "Coles Bakery",
+        "price": 5,
+        "unitPrice": "$0.42 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2591940",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2591940.jpg"
+      },
+      {
+        "id": "coles_120024",
+        "name": "Desiccated Coconut",
+        "brand": "McKenzie's",
+        "price": 3.7,
+        "unitPrice": "$14.80 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/120024",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/120024.jpg"
+      },
+      {
+        "id": "coles_8734482",
+        "name": "Desiccated Coconut",
+        "brand": "Coles",
+        "price": 4.9,
+        "unitPrice": "$9.80 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8734482",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8734482.jpg"
+      },
+      {
+        "id": "coles_5284540",
+        "name": "Clusters Cranberry Almond Coconut",
+        "brand": "Heritage Mill",
+        "price": 6,
+        "unitPrice": "$0.80 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5284540",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5284540.jpg"
+      },
+      {
+        "id": "coles_2877080",
+        "name": "Shredded Coconut",
+        "brand": "Coles",
+        "price": 3.3,
+        "unitPrice": "$8.80 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2877080",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2877080.jpg"
+      },
+      {
+        "id": "coles_2749421",
+        "name": "Flakes Almond",
+        "brand": "Coles",
+        "price": 4.35,
+        "unitPrice": "$29.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2749421",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2749421.jpg"
+      },
+      {
+        "id": "coles_3019912",
+        "name": "Chocolate Coconut Rough",
+        "brand": "Coles",
+        "price": 3.5,
+        "unitPrice": "$35.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3019912",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3019912.jpg"
+      },
+      {
+        "id": "coles_409557",
+        "name": "Coconut Whole",
+        "brand": "Coles",
+        "price": 5.5,
+        "unitPrice": "$5.50 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/409557",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/409557.jpg"
+      },
+      {
+        "id": "coles_1490324",
+        "name": "Original Bites Dark Choc Orange Almond Coconut",
+        "brand": "Wallaby",
+        "price": 7,
+        "unitPrice": "$5.83 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1490324",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1490324.jpg"
+      },
+      {
+        "id": "coles_3767815",
+        "name": "Certified Organic Coconut Flour",
+        "brand": "Coco Earth",
+        "price": 6,
+        "unitPrice": "$12.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3767815",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3767815.jpg"
+      }
+    ]
+  },
+  "totalProducts": 18
+}

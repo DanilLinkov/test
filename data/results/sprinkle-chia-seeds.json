@@ -1,0 +1,161 @@
+{
+  "term": "sprinkle chia seeds",
+  "slug": "sprinkle-chia-seeds",
+  "scrapedAt": "2026-01-10T08:01:07.814Z",
+  "results": {
+    "woolworths": [],
+    "coles": [
+      {
+        "id": "coles_1436282",
+        "name": "White Chia Seeds",
+        "brand": "Wellness Road",
+        "price": 5.5,
+        "unitPrice": "$1.83 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1436282",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1436282.jpg"
+      },
+      {
+        "id": "coles_1436271",
+        "name": "Black Chia Seeds",
+        "brand": "Wellness Road",
+        "price": 5.8,
+        "unitPrice": "$1.93 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1436271",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1436271.jpg"
+      },
+      {
+        "id": "coles_4306818",
+        "name": "Black Chia Seeds",
+        "brand": "Red Tractor",
+        "price": 10.4,
+        "unitPrice": "$1.73 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4306818",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4306818.jpg"
+      },
+      {
+        "id": "coles_3118110",
+        "name": "Organic Black Chia Seeds",
+        "brand": "Wellness Road",
+        "price": 8.5,
+        "unitPrice": "$2.83 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3118110",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3118110.jpg"
+      },
+      {
+        "id": "coles_1358134",
+        "name": "Spelt Wholemeal Chia",
+        "brand": "Vitality",
+        "price": 7,
+        "unitPrice": "$1.21 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1358134",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1358134.jpg"
+      },
+      {
+        "id": "coles_2750034",
+        "name": "Frozen Gluten Free Nuggets With Rice Protein & Chia",
+        "brand": "Fry's",
+        "price": 7.1,
+        "unitPrice": "$2.96 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2750034",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2750034.jpg"
+      },
+      {
+        "id": "coles_6062474",
+        "name": "Wellness Road Black Chia Seeds",
+        "brand": "Coles",
+        "price": 15,
+        "unitPrice": "$1.50 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6062474",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6062474.jpg"
+      },
+      {
+        "id": "coles_3337270",
+        "name": "Black Chia Mix",
+        "brand": "Coles",
+        "price": 5,
+        "unitPrice": "$2.50 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3337270",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3337270.jpg"
+      },
+      {
+        "id": "coles_2848398",
+        "name": "Passionfruit & Chia Seed Bites",
+        "brand": "Coles",
+        "price": 3,
+        "unitPrice": "$30.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2848398",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2848398.jpg"
+      },
+      {
+        "id": "coles_3897967",
+        "name": "Vanilla Chia Pod",
+        "brand": "Fancy Plants",
+        "price": 3.5,
+        "unitPrice": "$2.33 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3897967",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3897967.jpg"
+      },
+      {
+        "id": "coles_3897956",
+        "name": "Chocolate Chia Pod",
+        "brand": "Fancy Plants",
+        "price": 3.5,
+        "unitPrice": "$2.33 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3897956",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3897956.jpg"
+      },
+      {
+        "id": "coles_3621015",
+        "name": "Dairy Free Berries & Chia Seeds Greek Style Yoghurt",
+        "brand": "Kingland",
+        "price": 4.65,
+        "unitPrice": "$0.93 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3621015",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3621015.jpg"
+      },
+      {
+        "id": "coles_7674104",
+        "name": "Chia Bowls Berry & Coconut",
+        "brand": "Carman's",
+        "price": 7.5,
+        "unitPrice": "$3.57 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/7674104",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7674104.jpg"
+      },
+      {
+        "id": "coles_3772473",
+        "name": "Banana Mixed Berry Coconut Chia",
+        "brand": "Only Organic",
+        "price": 2.5,
+        "unitPrice": "$2.50 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3772473",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3772473.jpg"
+      },
+      {
+        "id": "coles_3292809",
+        "name": "Vanilla & Pear Custard With Chia Seeds 8 + Months",
+        "brand": "Bellamy's Organic ",
+        "price": 2.3,
+        "unitPrice": "$1.92 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3292809",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3292809.jpg"
+      }
+    ]
+  },
+  "totalProducts": 15
+}

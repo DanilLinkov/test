@@ -1,0 +1,412 @@
+{
+  "term": "strawberries",
+  "slug": "strawberries",
+  "scrapedAt": "2026-01-10T07:59:50.375Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_686250",
+        "name": "YoPRO High Protein Yoghurt Strawberry",
+        "brand": "YoPRO",
+        "price": 8,
+        "unitPrice": "$1.14 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/686250",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/686250.jpg"
+      },
+      {
+        "id": "ww_794607",
+        "name": "YoPRO High Protein Yoghurt Pouch Strawberry",
+        "brand": "YoPRO",
+        "price": 3.2,
+        "unitPrice": "$2.13 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/794607",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/794607.jpg"
+      },
+      {
+        "id": "ww_104248",
+        "name": "YoPRO Perform High Protein Yoghurt Pouch Strawberry",
+        "brand": "YoPRO",
+        "price": 3.9,
+        "unitPrice": "$2.23 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/104248",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/104248.jpg"
+      },
+      {
+        "id": "ww_646706",
+        "name": "YoPRO High Protein Yoghurt Strawberry",
+        "brand": "YoPRO",
+        "price": 3.2,
+        "unitPrice": "$2.00 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/646706",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/646706.jpg"
+      },
+      {
+        "id": "ww_144607",
+        "name": "Strawberries Punnet",
+        "brand": null,
+        "price": 2.5,
+        "unitPrice": "$10.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/144607",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/144607.jpg"
+      },
+      {
+        "id": "ww_195767",
+        "name": "Sweetest Batch Sweetest Batch® Premium Strawberries Punnet",
+        "brand": "Sweetest Batch",
+        "price": 3.9,
+        "unitPrice": "$13.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/195767",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/195767.jpg"
+      },
+      {
+        "id": "ww_149820",
+        "name": "Organic Strawberry Punnet",
+        "brand": null,
+        "price": 6.5,
+        "unitPrice": "$26.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/149820",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/149820.jpg"
+      },
+      {
+        "id": "ww_331448",
+        "name": "Vaalia Kids Probiotic Yoghurt Pouch Strawberry",
+        "brand": "Vaalia",
+        "price": 2.5,
+        "unitPrice": "$1.79 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/331448",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/331448.jpg"
+      },
+      {
+        "id": "ww_312191",
+        "name": "Yoplait Petit Miam Kids Yoghurt Pouch Strawberry",
+        "brand": "Yoplait",
+        "price": 1.2,
+        "unitPrice": "$1.71 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/312191",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/312191.jpg"
+      },
+      {
+        "id": "ww_284965",
+        "name": "Woolworths No Added Sugar Greek Style Strawberry Yoghurt",
+        "brand": "Woolworths",
+        "price": 1.35,
+        "unitPrice": "$1.23 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/284965",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/284965.jpg"
+      },
+      {
+        "id": "ww_248247",
+        "name": "Uncle Tobys Muesli Bars Yoghurt & Strawberry",
+        "brand": "Uncle Tobys",
+        "price": 5.5,
+        "unitPrice": "$2.97 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/248247",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/248247.jpg"
+      },
+      {
+        "id": "ww_597604",
+        "name": "Uncle Tobys Yoghurt Muesli Bars Strawberry",
+        "brand": "Uncle Tobys",
+        "price": 8,
+        "unitPrice": "$1.71 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/597604",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/597604.jpg"
+      },
+      {
+        "id": "ww_956079",
+        "name": "Uncle Tobys Strawberries & Creme Protein Muesli Bars",
+        "brand": "Uncle Tobys",
+        "price": 6.7,
+        "unitPrice": "$3.83 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/956079",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/956079.jpg"
+      },
+      {
+        "id": "ww_6010283",
+        "name": "Woolworths Strawberry Yoghurt Pouch Strawberry",
+        "brand": "Woolworths",
+        "price": 0.8,
+        "unitPrice": "$1.14 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6010283",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6010283.jpg"
+      },
+      {
+        "id": "ww_508827",
+        "name": "Tamar Valley Dairy Kids Greek Yoghurt Pouch Strawberry",
+        "brand": "Tamar Valley",
+        "price": 2.5,
+        "unitPrice": "$2.27 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/508827",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/508827.jpg"
+      },
+      {
+        "id": "ww_862494",
+        "name": "Pauls Kids Strawberry Yoghurt Pouch",
+        "brand": "Pauls",
+        "price": 1.3,
+        "unitPrice": "$1.86 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/862494",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/862494.jpg"
+      },
+      {
+        "id": "ww_768057",
+        "name": "Dairy Farmers Thick & Creamy Strawberry Yoghurt",
+        "brand": "Dairy Farmers",
+        "price": 1.45,
+        "unitPrice": "$0.97 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/768057",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/768057.jpg"
+      },
+      {
+        "id": "ww_167552",
+        "name": "Tamar Valley Dairy Yoghurt Strawberry & Cream",
+        "brand": "Tamar Valley",
+        "price": 3,
+        "unitPrice": "$1.76 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/167552",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/167552.jpg"
+      },
+      {
+        "id": "ww_6036528",
+        "name": "Farmers Union Greek Style High Protein Yoghurt Strawberry",
+        "brand": "Farmers Union",
+        "price": 1.9,
+        "unitPrice": "$1.27 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6036528",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6036528.jpg"
+      },
+      {
+        "id": "ww_6039041",
+        "name": "Vaalia Boost Probiotic Yoghurt Pouch Strawberry Squeeze",
+        "brand": "Vaalia",
+        "price": 2.8,
+        "unitPrice": "$1.87 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6039041",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6039041.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_5191256",
+        "name": "Strawberries",
+        "brand": "Coles",
+        "price": 2,
+        "unitPrice": "$8.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5191256",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5191256.jpg"
+      },
+      {
+        "id": "coles_3538818",
+        "name": "High Protein Yoghurt No Added Sugar Strawberry",
+        "brand": "YoPro",
+        "price": 8,
+        "unitPrice": "$1.14 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3538818",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3538818.jpg"
+      },
+      {
+        "id": "coles_4346244",
+        "name": "High Protein Yoghurt Pouch No Added Sugar Strawberry",
+        "brand": "YoPro",
+        "price": 3.2,
+        "unitPrice": "$2.13 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4346244",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4346244.jpg"
+      },
+      {
+        "id": "coles_4935008",
+        "name": "Perform High Protein Yoghurt No Added Sugar Strawberry",
+        "brand": "YoPro",
+        "price": 3.9,
+        "unitPrice": "$2.23 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4935008",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4935008.jpg"
+      },
+      {
+        "id": "coles_8423530",
+        "name": "Perform High Protein Yoghurt Pouch No Added Sugar Strawberry",
+        "brand": "YoPro",
+        "price": 3.9,
+        "unitPrice": "$2.23 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8423530",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8423530.jpg"
+      },
+      {
+        "id": "coles_2991880",
+        "name": "High Protein Yoghurt No Added Sugar Strawberry",
+        "brand": "YoPro",
+        "price": 3.2,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2991880",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2991880.jpg"
+      },
+      {
+        "id": "coles_5707745",
+        "name": "Premium Strawberries",
+        "brand": "Coles",
+        "price": 4.5,
+        "unitPrice": "$12.86 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5707745",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5707745.jpg"
+      },
+      {
+        "id": "coles_1013471",
+        "name": "Squeezie Yoghurt Pouch Strawberry",
+        "brand": "Coles",
+        "price": 0.8,
+        "unitPrice": "$1.14 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1013471",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1013471.jpg"
+      },
+      {
+        "id": "coles_6569239",
+        "name": "Petit Miam Kids Yoghurt Pouch Strawberry",
+        "brand": "Yoplait",
+        "price": 1.2,
+        "unitPrice": "$1.71 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6569239",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6569239.jpg"
+      },
+      {
+        "id": "coles_1301192",
+        "name": "Frozen Fruit Sliced Strawberries",
+        "brand": "Coles",
+        "price": 7,
+        "unitPrice": "$14.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1301192",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1301192.jpg"
+      },
+      {
+        "id": "coles_6397596",
+        "name": "Strawberry Jam",
+        "brand": "Cottees",
+        "price": 3.5,
+        "unitPrice": "$0.93 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6397596",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6397596.jpg"
+      },
+      {
+        "id": "coles_6063900",
+        "name": "Strawberry Jam",
+        "brand": "Coles",
+        "price": 2.5,
+        "unitPrice": "$0.56 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6063900",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6063900.jpg"
+      },
+      {
+        "id": "coles_7246880",
+        "name": "Kids Strawberry Yoghurt Pouch",
+        "brand": "Vaalia",
+        "price": 2.5,
+        "unitPrice": "$1.79 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/7246880",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7246880.jpg"
+      },
+      {
+        "id": "coles_3251415",
+        "name": "Greek Yoghurt Pouch Strawberry",
+        "brand": "Farmers Union",
+        "price": 2.5,
+        "unitPrice": "$1.92 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3251415",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3251415.jpg"
+      },
+      {
+        "id": "coles_5586017",
+        "name": "Strawberry Yoghurt",
+        "brand": "Yoplait",
+        "price": 4.95,
+        "unitPrice": "$0.50 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5586017",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5586017.jpg"
+      },
+      {
+        "id": "coles_9554497",
+        "name": "Strawberry Yoghurt",
+        "brand": "Coles",
+        "price": 4,
+        "unitPrice": "$0.40 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9554497",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9554497.jpg"
+      },
+      {
+        "id": "coles_4966566",
+        "name": "Frozen Fruit Strawberry Slices",
+        "brand": "Coles",
+        "price": 12.5,
+        "unitPrice": "$12.50 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4966566",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4966566.jpg"
+      },
+      {
+        "id": "coles_2744359",
+        "name": "Kids Greek Yoghurt Pouch Strawberry",
+        "brand": "Tamar Valley",
+        "price": 2.5,
+        "unitPrice": "$2.27 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2744359",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2744359.jpg"
+      },
+      {
+        "id": "coles_5457615",
+        "name": "Two Fruits In Strawberry Jelly 4 Pack",
+        "brand": "Coles",
+        "price": 2.3,
+        "unitPrice": "$4.60 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5457615",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5457615.jpg"
+      },
+      {
+        "id": "coles_9264260",
+        "name": "K-time Baked Twists Strawberry & Yoghurt Flavour Filled Snack Bars 5 Pack",
+        "brand": "Kellogg's",
+        "price": 5.5,
+        "unitPrice": "$2.97 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9264260",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9264260.jpg"
+      }
+    ]
+  },
+  "totalProducts": 40
+}

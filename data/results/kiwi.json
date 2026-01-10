@@ -1,0 +1,332 @@
+{
+  "term": "kiwi",
+  "slug": "kiwi",
+  "scrapedAt": "2026-01-10T08:02:35.572Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_911076",
+        "name": "Celsius Energy Drink Sparkling Kiwi Strawberry Can",
+        "brand": "Celsius",
+        "price": 2.8,
+        "unitPrice": "$8.48 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/911076",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/911076.jpg"
+      },
+      {
+        "id": "ww_6046145",
+        "name": "Earthly Eats Soft Dried Kiwi Fruit",
+        "brand": "Earthly Eats",
+        "price": 6,
+        "unitPrice": "$60.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6046145",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6046145.jpg"
+      },
+      {
+        "id": "ww_1121217669",
+        "name": "Oxyshred Kiwi Strawberry 355ml x 12",
+        "brand": "",
+        "price": 59.95,
+        "unitPrice": "$14.07 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1121217669",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1121217669.jpg"
+      },
+      {
+        "id": "ww_153654",
+        "name": "Macro Organic Kiwi Fruit",
+        "brand": "Macro",
+        "price": null,
+        "unitPrice": "",
+        "available": false,
+        "url": "https://www.woolworths.com.au/shop/productdetails/153654",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/153654.jpg"
+      },
+      {
+        "id": "ww_1126008487",
+        "name": "KIWI Design V4 Facial Interface for Meta Quest 3S (2 Pack)",
+        "brand": "Kiwi",
+        "price": 45.6,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1126008487",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1126008487.jpg"
+      },
+      {
+        "id": "ww_1126008455",
+        "name": "KIWI Design P4 Carrying Case for Meta Quest 3S/3/2/Vision Pro",
+        "brand": "Kiwi",
+        "price": 51.6,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1126008455",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1126008455.jpg"
+      },
+      {
+        "id": "ww_1121183079",
+        "name": "Kiwi Kitchens Raw Freeze Dried Grass Fed Lamb Dinner Dry Dog Food 425kg",
+        "brand": "Kiwi Kitchens",
+        "price": 48.99,
+        "unitPrice": "$11.53 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1121183079",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1121183079.jpg"
+      },
+      {
+        "id": "ww_1120607529",
+        "name": "Kiwi Style Mayonnaise Mayo 6L Bulk",
+        "brand": "Kiwi Style",
+        "price": 74.95,
+        "unitPrice": "$1.25 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1120607529",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1120607529.jpg"
+      },
+      {
+        "id": "ww_1122718647",
+        "name": "Holle Organic Kiwi Koala - Pear & Banana with Kiwi Puree 100g",
+        "brand": "Holle",
+        "price": 3.79,
+        "unitPrice": "$3.79 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1122718647",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1122718647.jpg"
+      },
+      {
+        "id": "ww_1111101589",
+        "name": "Kiwi Fruit - Bamboo Socks",
+        "brand": "",
+        "price": 9.5,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1111101589",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1111101589.jpg"
+      },
+      {
+        "id": "ww_1125395487",
+        "name": "Dog Leash (Kiwi) - Large",
+        "brand": "",
+        "price": 38.99,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1125395487",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1125395487.jpg"
+      },
+      {
+        "id": "ww_1125394751",
+        "name": "Dog Leash (Kiwi) - Small",
+        "brand": "",
+        "price": 34.99,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1125394751",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1125394751.jpg"
+      },
+      {
+        "id": "ww_1116077501",
+        "name": "Play Cards - Kiwi Slang",
+        "brand": "",
+        "price": 19.95,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1116077501",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1116077501.jpg"
+      },
+      {
+        "id": "ww_1113691653",
+        "name": "CollectA - Kiwi Bird Animal Figurine",
+        "brand": "Collecta",
+        "price": 11.98,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1113691653",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1113691653.jpg"
+      },
+      {
+        "id": "ww_1126710827",
+        "name": "Palm Pals Kimber Kiwi PLM48",
+        "brand": "",
+        "price": 14.95,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1126710827",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1126710827.jpg"
+      },
+      {
+        "id": "ww_1124330869",
+        "name": "Plastic Rectangular Tablecover - Kiwi Green",
+        "brand": "Amscan",
+        "price": 3.99,
+        "unitPrice": "$3.99 / 1EA",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1124330869",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1124330869.jpg"
+      },
+      {
+        "id": "ww_1125395161",
+        "name": "Smart ID Cat Collar (Kiwi)",
+        "brand": "",
+        "price": 27.99,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1125395161",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1125395161.jpg"
+      },
+      {
+        "id": "ww_1122272023",
+        "name": "EHPLabs Oxyshred Kiwi Strawberry 252g",
+        "brand": "EHPLabs",
+        "price": 75.55,
+        "unitPrice": "$29.98 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1122272023",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1122272023.jpg"
+      },
+      {
+        "id": "ww_1115614513",
+        "name": "Rug Culture Scion Rivi Kiwi Rug",
+        "brand": "Rug Culture",
+        "price": 699,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1115614513",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1115614513.jpg"
+      },
+      {
+        "id": "ww_1125406439",
+        "name": "Bandana for Cats & dog's (Kiwi) - Large",
+        "brand": "",
+        "price": 28.49,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1125406439",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1125406439.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_4425883",
+        "name": "Green Kiwifruit",
+        "brand": "Coles",
+        "price": 1.9,
+        "unitPrice": "$1.90 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4425883",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4425883.jpg"
+      },
+      {
+        "id": "coles_4823081",
+        "name": "Green Kiwifruit Prepacked",
+        "brand": "Coles",
+        "price": 7.9,
+        "unitPrice": "$1.32 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4823081",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4823081.jpg"
+      },
+      {
+        "id": "coles_4498311",
+        "name": "Kiwifruit Prepacked",
+        "brand": "Gold",
+        "price": 7.9,
+        "unitPrice": "$1.32 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4498311",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4498311.jpg"
+      },
+      {
+        "id": "coles_3273134",
+        "name": "Extreme Protector",
+        "brand": "Kiwi",
+        "price": 10,
+        "unitPrice": "$7.19 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3273134",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3273134.jpg"
+      },
+      {
+        "id": "coles_8112540",
+        "name": "Dubbin Neutral Leather Protection Shoe Polish",
+        "brand": "Kiwi",
+        "price": 4.15,
+        "unitPrice": "$5.19 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8112540",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8112540.jpg"
+      },
+      {
+        "id": "coles_8164974",
+        "name": "Black Shoe Laces 69cm",
+        "brand": "Kiwi",
+        "price": 2.5,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8164974",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8164974.jpg"
+      },
+      {
+        "id": "coles_5995209",
+        "name": "Red Kiwifruit",
+        "brand": "Coles",
+        "price": 7.9,
+        "unitPrice": "$1.98 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5995209",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5995209.jpg"
+      },
+      {
+        "id": "coles_8916322",
+        "name": "Effervescent Strawberry Kiwi",
+        "brand": "Hydralyte",
+        "price": 24.4,
+        "unitPrice": "$0.61 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8916322",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8916322.jpg"
+      },
+      {
+        "id": "coles_1022960",
+        "name": "Energy Drink Kiwi Strawberry",
+        "brand": "Celsius",
+        "price": 3.6,
+        "unitPrice": "$10.91 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1022960",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1022960.jpg"
+      },
+      {
+        "id": "coles_8092192",
+        "name": "Ultra Energy Kiwi Strawberry",
+        "brand": "Oxyshred",
+        "price": 2.45,
+        "unitPrice": "$6.90 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8092192",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8092192.jpg"
+      },
+      {
+        "id": "coles_4950679",
+        "name": "Effervescent Strawberry Kiwi Tablet",
+        "brand": "Hydralyte",
+        "price": 8.7,
+        "unitPrice": "$0.87 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4950679",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4950679.jpg"
+      },
+      {
+        "id": "coles_5484742",
+        "name": "Sports Drink Sipper Cap Kiwi",
+        "brand": "Powerade",
+        "price": 2.6,
+        "unitPrice": "$4.33 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5484742",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5484742.jpg"
+      }
+    ]
+  },
+  "totalProducts": 32
+}

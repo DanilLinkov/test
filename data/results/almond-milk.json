@@ -1,0 +1,412 @@
+{
+  "term": "almond milk",
+  "slug": "almond-milk",
+  "scrapedAt": "2026-01-10T07:58:52.906Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_858008",
+        "name": "Pureharvest Unsweetened Almond Long Life Milk UHT",
+        "brand": "Pureharvest",
+        "price": 3.4,
+        "unitPrice": "$3.40 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/858008",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/858008.jpg"
+      },
+      {
+        "id": "ww_779134",
+        "name": "Woolworths Unsweetened Almond Long Life Milk UHT",
+        "brand": "Woolworths",
+        "price": 1.85,
+        "unitPrice": "$1.85 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/779134",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/779134.jpg"
+      },
+      {
+        "id": "ww_744490",
+        "name": "Sanitarium So Good Unsweetened Almond Long Life Milk UHT",
+        "brand": "Sanitarium",
+        "price": 3,
+        "unitPrice": "$3.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/744490",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/744490.jpg"
+      },
+      {
+        "id": "ww_895609",
+        "name": "MilkLab Home Barista Almond Long Life Milk UHT",
+        "brand": "MilkLab",
+        "price": 4.4,
+        "unitPrice": "$4.40 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/895609",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/895609.jpg"
+      },
+      {
+        "id": "ww_83836",
+        "name": "Sanitarium So Good Barista Almond Long Life Milk UHT",
+        "brand": "Sanitarium",
+        "price": 3,
+        "unitPrice": "$3.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/83836",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/083836.jpg"
+      },
+      {
+        "id": "ww_64810",
+        "name": "Australia's Own Barista Almond Long Life Milk UHT",
+        "brand": "Australia's Own",
+        "price": 4.5,
+        "unitPrice": "$4.50 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/64810",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/064810.jpg"
+      },
+      {
+        "id": "ww_926885",
+        "name": "Vitasoy Unsweetened Almond Long Life Milk UHT",
+        "brand": "Vitasoy",
+        "price": 3.3,
+        "unitPrice": "$3.30 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/926885",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/926885.jpg"
+      },
+      {
+        "id": "ww_710014",
+        "name": "Sanitarium So Good Almond Long Life Milk UHT",
+        "brand": "Sanitarium",
+        "price": 3,
+        "unitPrice": "$3.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/710014",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/710014.jpg"
+      },
+      {
+        "id": "ww_660390",
+        "name": "Vitasoy Almond Milky Long Life Milk UHT",
+        "brand": "Vitasoy",
+        "price": 3,
+        "unitPrice": "$3.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/660390",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/660390.jpg"
+      },
+      {
+        "id": "ww_730941",
+        "name": "Macro Organic Almond Long Life Milk UHT",
+        "brand": "Macro",
+        "price": null,
+        "unitPrice": "",
+        "available": false,
+        "url": "https://www.woolworths.com.au/shop/productdetails/730941",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/730941.jpg"
+      },
+      {
+        "id": "ww_171712",
+        "name": "So Good High Protein Almond Long Life Milk UHT",
+        "brand": "So Good",
+        "price": 3,
+        "unitPrice": "$3.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/171712",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/171712.jpg"
+      },
+      {
+        "id": "ww_260099",
+        "name": "Pureharvest Organic Almond Long Life Milk UHT",
+        "brand": "Pureharvest",
+        "price": 3.6,
+        "unitPrice": "$3.60 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/260099",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/260099.jpg"
+      },
+      {
+        "id": "ww_924245",
+        "name": "Australia's Own Unsweetened Organic Almond Long Life Milk UHT",
+        "brand": "Australia's Own",
+        "price": 3.1,
+        "unitPrice": "$3.10 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/924245",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/924245.jpg"
+      },
+      {
+        "id": "ww_85169",
+        "name": "Bonsoy Almond Long Life Milk UHT",
+        "brand": "Bonsoy",
+        "price": 4.5,
+        "unitPrice": "$4.50 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/85169",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/085169.jpg"
+      },
+      {
+        "id": "ww_288162",
+        "name": "Inside Out Unsweetened Almond Milk With Collagen, Calcium & Prebiotics",
+        "brand": "Inside Out",
+        "price": 5.5,
+        "unitPrice": "$5.50 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/288162",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/288162.jpg"
+      },
+      {
+        "id": "ww_797060",
+        "name": "Inside Out Almond Milk Unsweetened",
+        "brand": "Inside Out",
+        "price": 3.15,
+        "unitPrice": "$3.15 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/797060",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/797060.jpg"
+      },
+      {
+        "id": "ww_6021066",
+        "name": "Sanitarium So Good Almond Extra Creamy Long Life Milk UHT",
+        "brand": "Sanitarium",
+        "price": 3,
+        "unitPrice": "$3.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6021066",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6021066.jpg"
+      },
+      {
+        "id": "ww_266670",
+        "name": "Jst Almond",
+        "brand": "Jst",
+        "price": 2.6,
+        "unitPrice": "$2.60 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/266670",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/266670.jpg"
+      },
+      {
+        "id": "ww_793384",
+        "name": "Sanitarium So Good Unsweetened Almond Coconut Long Life Milk UHT",
+        "brand": "Sanitarium",
+        "price": 3,
+        "unitPrice": "$3.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/793384",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/793384.jpg"
+      },
+      {
+        "id": "ww_662836",
+        "name": "Nutty Bruce Organic Unsweetened Almond Plant Milk",
+        "brand": "Nutty Bruce",
+        "price": 6,
+        "unitPrice": "$6.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/662836",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/662836.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_1260754",
+        "name": "So Good Long Life Unsweetened Almond Milk",
+        "brand": "Sanitarium",
+        "price": 2,
+        "unitPrice": "$2.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1260754",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1260754.jpg"
+      },
+      {
+        "id": "coles_7497814",
+        "name": "Almond Milk",
+        "brand": "Milklab",
+        "price": 5.5,
+        "unitPrice": "$5.50 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/7497814",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7497814.jpg"
+      },
+      {
+        "id": "coles_1852210",
+        "name": "Almond Milk Unsweetened",
+        "brand": "Coles",
+        "price": 1.85,
+        "unitPrice": "$1.85 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1852210",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1852210.jpg"
+      },
+      {
+        "id": "coles_9089036",
+        "name": "So Good Long Life Original Almond Milk",
+        "brand": "Sanitarium",
+        "price": 2,
+        "unitPrice": "$2.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9089036",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9089036.jpg"
+      },
+      {
+        "id": "coles_2412734",
+        "name": "Unsweetened Almond Uht Milk",
+        "brand": "Vitasoy",
+        "price": 3.3,
+        "unitPrice": "$3.30 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2412734",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2412734.jpg"
+      },
+      {
+        "id": "coles_2807109",
+        "name": "Unsweetened Almond Milk",
+        "brand": "Pureharvest",
+        "price": 3.4,
+        "unitPrice": "$3.40 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2807109",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2807109.jpg"
+      },
+      {
+        "id": "coles_3019027",
+        "name": "Almond Milky",
+        "brand": "Vitasoy",
+        "price": 3,
+        "unitPrice": "$3.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3019027",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3019027.jpg"
+      },
+      {
+        "id": "coles_3492670",
+        "name": "Almond Barista Milk",
+        "brand": "Australia's Own",
+        "price": 4.5,
+        "unitPrice": "$4.50 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3492670",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3492670.jpg"
+      },
+      {
+        "id": "coles_3496423",
+        "name": "Dairy Free Barista Almond Milk",
+        "brand": "Coles",
+        "price": 3.3,
+        "unitPrice": "$3.30 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3496423",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3496423.jpg"
+      },
+      {
+        "id": "coles_5318969",
+        "name": "So Good Almond Barista Uht Milk",
+        "brand": "Sanitarium",
+        "price": 4,
+        "unitPrice": "$4.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5318969",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5318969.jpg"
+      },
+      {
+        "id": "coles_6501075",
+        "name": "Almond Milk",
+        "brand": "Milklab",
+        "price": 2,
+        "unitPrice": "$8.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6501075",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6501075.jpg"
+      },
+      {
+        "id": "coles_3782932",
+        "name": "So Good High Protein Almond Milk",
+        "brand": "Sanitarium",
+        "price": 4,
+        "unitPrice": "$4.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3782932",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3782932.jpg"
+      },
+      {
+        "id": "coles_1987118",
+        "name": "So Good Long Life Unsweetened Almond & Coconut Milk",
+        "brand": "Sanitarium",
+        "price": 2,
+        "unitPrice": "$2.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1987118",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1987118.jpg"
+      },
+      {
+        "id": "coles_2684381",
+        "name": "Unsweetened Almond Milk",
+        "brand": "Vitasoy",
+        "price": 4,
+        "unitPrice": "$4.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2684381",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2684381.jpg"
+      },
+      {
+        "id": "coles_3268440",
+        "name": "Organic Unsweetened Almond Milk",
+        "brand": "Nutty Bruce",
+        "price": 6,
+        "unitPrice": "$6.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3268440",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3268440.jpg"
+      },
+      {
+        "id": "coles_3269691",
+        "name": "Unsweetened Almond Milk",
+        "brand": "Inside Out",
+        "price": 4.5,
+        "unitPrice": "$4.50 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3269691",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3269691.jpg"
+      },
+      {
+        "id": "coles_5638700",
+        "name": "Almond Milky Low Sugar",
+        "brand": "Vitasoy",
+        "price": 3.5,
+        "unitPrice": "$3.50 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5638700",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5638700.jpg"
+      },
+      {
+        "id": "coles_6450203",
+        "name": "Unsweetened Almond Milk",
+        "brand": "Annie's Orchard",
+        "price": 2.2,
+        "unitPrice": "$2.20 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6450203",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6450203.jpg"
+      },
+      {
+        "id": "coles_1760101",
+        "name": "So Good Almond Vanilla Long Life Milk",
+        "brand": "Sanitarium",
+        "price": 2.5,
+        "unitPrice": "$2.50 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1760101",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1760101.jpg"
+      },
+      {
+        "id": "coles_6450214",
+        "name": "Unsweetened Oat Milk",
+        "brand": "Annie's Orchard",
+        "price": 2.2,
+        "unitPrice": "$2.20 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6450214",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6450214.jpg"
+      }
+    ]
+  },
+  "totalProducts": 40
+}
