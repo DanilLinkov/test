@@ -3,8 +3,8 @@ name: On-Demand Scrape
 on:
   workflow_dispatch:
     inputs:
-      ingredient:
-        description: 'Ingredient to scrape'
+      ingredients:
+        description: 'Comma-separated ingredients to scrape (e.g., "banana,strawberries,milk")'
         required: true
         type: string
 
@@ -12,21 +12,22 @@ permissions:
   contents: write
   pages: write
 
-# Queue workflows - only one runs at a time, others wait
-concurrency:
-  group: scrape-workflow
-  cancel-in-progress: false
-
 jobs:
-  scrape-single:
+  scrape-batch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Full history for rebasing
+          fetch-depth: 0
+          ref: main
+
+      - name: Pull latest changes
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -40,24 +41,22 @@ jobs:
       - name: Install Playwright Chromium
         run: npx playwright install chromium --with-deps
 
-      - name: Scrape single ingredient
-        run: npx tsx src/scrape-single.ts "${{ github.event.inputs.ingredient }}"
+      - name: Scrape ingredients
+        run: npx tsx src/scrape-single.ts "${{ github.event.inputs.ingredients }}"
 
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Pull latest changes (rebase to avoid merge commits)
-          git fetch origin main
-          git rebase origin/main
-
-          # Stage and commit if there are changes
+          # Stage all changes
           git add data/**/*.json
+
+          # Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update ${{ github.event.inputs.ingredient }} prices [skip ci]"
+            git commit -m "chore: update prices for ${{ github.event.inputs.ingredients }} [skip ci]"
             git push origin main
           fi
 
