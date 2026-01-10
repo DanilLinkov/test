@@ -1,9 +1,210 @@
 {
   "term": "blueberries",
   "slug": "blueberries",
-  "scrapedAt": "2026-01-10T07:57:31.804Z",
+  "scrapedAt": "2026-01-10T23:51:20.458Z",
   "results": {
-    "woolworths": [],
+    "woolworths": [
+      {
+        "id": "ww_53192",
+        "name": "Blueberry Blueberries Punnet",
+        "brand": "Blueberry",
+        "price": 2.5,
+        "unitPrice": "$14.71 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/53192",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/053192.jpg"
+      },
+      {
+        "id": "ww_284964",
+        "name": "Woolworths No Added Sugar Greek Style Blueberry Yoghurt",
+        "brand": "Woolworths",
+        "price": 1.35,
+        "unitPrice": "$1.23 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/284964",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/284964.jpg"
+      },
+      {
+        "id": "ww_123956",
+        "name": "Vaalia Kids Probiotic Yoghurt Pouch Blueberry",
+        "brand": "Vaalia",
+        "price": 2.5,
+        "unitPrice": "$1.79 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/123956",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/123956.jpg"
+      },
+      {
+        "id": "ww_586516",
+        "name": "Woolworths Frozen Blueberries",
+        "brand": "Woolworths",
+        "price": 12,
+        "unitPrice": "$12.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/586516",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/586516.jpg"
+      },
+      {
+        "id": "ww_260007",
+        "name": "Woolworths Frozen Blueberries",
+        "brand": "Woolworths",
+        "price": 6.5,
+        "unitPrice": "$13.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/260007",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/260007.jpg"
+      },
+      {
+        "id": "ww_815126",
+        "name": "Macro Organic Frozen Blueberries",
+        "brand": "Macro",
+        "price": 9.3,
+        "unitPrice": "$20.67 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/815126",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/815126.jpg"
+      },
+      {
+        "id": "ww_6024474",
+        "name": "Amazonia Wild Blueberries",
+        "brand": "Amazonia",
+        "price": 9,
+        "unitPrice": "$30.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6024474",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6024474.jpg"
+      },
+      {
+        "id": "ww_931859",
+        "name": "Oob Organic Frozen Blueberries",
+        "brand": "Oob Organic",
+        "price": 8.5,
+        "unitPrice": "$18.89 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/931859",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/931859.jpg"
+      },
+      {
+        "id": "ww_6029498",
+        "name": "RJN Cua Vineyards Fruit Frozen Blueberries",
+        "brand": "RJN Cua Vineyards",
+        "price": 7.5,
+        "unitPrice": "$16.67 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6029498",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6029498.jpg"
+      },
+      {
+        "id": "ww_660435",
+        "name": "Tamar Valley Dairy Kids Greek Yoghurt Pouch Blueberry",
+        "brand": "Tamar Valley",
+        "price": 2.5,
+        "unitPrice": "$2.27 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/660435",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/660435.jpg"
+      },
+      {
+        "id": "ww_6010159",
+        "name": "Woolworths Blueberry Yoghurt Pouch Blueberry",
+        "brand": "Woolworths",
+        "price": 0.8,
+        "unitPrice": "$1.14 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6010159",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6010159.jpg"
+      },
+      {
+        "id": "ww_167330",
+        "name": "Tamar Valley The Creamery Greek Style Yoghurt Blueberries & Cream",
+        "brand": "Tamar Valley",
+        "price": 3,
+        "unitPrice": "$1.76 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/167330",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/167330.jpg"
+      },
+      {
+        "id": "ww_374587",
+        "name": "Yoplait Petit Miam Kids Yoghurt Pouch Blueberry",
+        "brand": "Yoplait",
+        "price": 1.2,
+        "unitPrice": "$1.71 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/374587",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/374587.jpg"
+      },
+      {
+        "id": "ww_740621",
+        "name": "Gippsland Dairy Blueberry Twist Yoghurt",
+        "brand": "Gippsland Dairy",
+        "price": 3,
+        "unitPrice": "$1.88 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/740621",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/740621.jpg"
+      },
+      {
+        "id": "ww_263341",
+        "name": "Chobani Greek Yogurt Blueberry",
+        "brand": "Chobani",
+        "price": 2.7,
+        "unitPrice": "$1.69 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/263341",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/263341.jpg"
+      },
+      {
+        "id": "ww_502387",
+        "name": "Pauls Plus Protein Blueberry Yoghurt",
+        "brand": "Pauls",
+        "price": 3.1,
+        "unitPrice": "$1.94 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/502387",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/502387.jpg"
+      },
+      {
+        "id": "ww_6035164",
+        "name": "Farmers Union Greek Style High Protein Yoghurt Pouch Blueberry",
+        "brand": "Farmers Union",
+        "price": 2.9,
+        "unitPrice": "$1.93 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6035164",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6035164.jpg"
+      },
+      {
+        "id": "ww_387539",
+        "name": "Yoplait YOP Yoghurt With Probiotics No Sugar Added Blueberry Pouch",
+        "brand": "Yoplait",
+        "price": 2,
+        "unitPrice": "$1.54 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/387539",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/387539.jpg"
+      },
+      {
+        "id": "ww_83841",
+        "name": "Vaalia Kids Probiotic Yoghurt Pouch Lactose Free Blueberry",
+        "brand": "Vaalia",
+        "price": 2.5,
+        "unitPrice": "$1.79 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/83841",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/083841.jpg"
+      },
+      {
+        "id": "ww_389168",
+        "name": "Yoplait YOP Yoghurt With Probiotics Blueberry Pouch",
+        "brand": "Yoplait",
+        "price": 2,
+        "unitPrice": "$1.54 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/389168",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/389168.jpg"
+      }
+    ],
     "coles": [
       {
         "id": "coles_3571948",
@@ -207,5 +408,5 @@
       }
     ]
   },
-  "totalProducts": 20
+  "totalProducts": 40
 }
