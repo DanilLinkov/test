@@ -1,38 +1,18 @@
 {
   "term": "blueberries",
   "slug": "blueberries",
-  "scrapedAt": "2026-01-10T23:49:45.699Z",
+  "scrapedAt": "2026-01-10T23:51:20.458Z",
   "results": {
     "woolworths": [
       {
         "id": "ww_53192",
         "name": "Blueberry Blueberries Punnet",
         "brand": "Blueberry",
-        "price": 3,
-        "unitPrice": "$17.65 / 1KG",
+        "price": 2.5,
+        "unitPrice": "$14.71 / 1KG",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/53192",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/053192.jpg"
-      },
-      {
-        "id": "ww_662480",
-        "name": "Blueberry Sweetest Batch® Premium Blueberries Punnet",
-        "brand": "Blueberry",
-        "price": null,
-        "unitPrice": "",
-        "available": false,
-        "url": "https://www.woolworths.com.au/shop/productdetails/662480",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/662480.jpg"
-      },
-      {
-        "id": "ww_918227",
-        "name": "Blueberries Punnet",
-        "brand": null,
-        "price": null,
-        "unitPrice": "",
-        "available": false,
-        "url": "https://www.woolworths.com.au/shop/productdetails/918227",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/918227.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/053192.jpg"
       },
       {
         "id": "ww_284964",
@@ -42,7 +22,7 @@
         "unitPrice": "$1.23 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/284964",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/284964.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/284964.jpg"
       },
       {
         "id": "ww_123956",
@@ -52,7 +32,7 @@
         "unitPrice": "$1.79 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/123956",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/123956.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/123956.jpg"
       },
       {
         "id": "ww_586516",
@@ -62,7 +42,7 @@
         "unitPrice": "$12.00 / 1KG",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/586516",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/586516.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/586516.jpg"
       },
       {
         "id": "ww_260007",
@@ -72,7 +52,7 @@
         "unitPrice": "$13.00 / 1KG",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/260007",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/260007.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/260007.jpg"
       },
       {
         "id": "ww_815126",
@@ -82,7 +62,7 @@
         "unitPrice": "$20.67 / 1KG",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/815126",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/815126.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/815126.jpg"
       },
       {
         "id": "ww_6024474",
@@ -92,17 +72,17 @@
         "unitPrice": "$30.00 / 1KG",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/6024474",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/6024474.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6024474.jpg"
       },
       {
         "id": "ww_931859",
         "name": "Oob Organic Frozen Blueberries",
         "brand": "Oob Organic",
-        "price": null,
-        "unitPrice": "",
-        "available": false,
+        "price": 8.5,
+        "unitPrice": "$18.89 / 1KG",
+        "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/931859",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/931859.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/931859.jpg"
       },
       {
         "id": "ww_6029498",
@@ -112,7 +92,7 @@
         "unitPrice": "$16.67 / 1KG",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/6029498",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/6029498.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6029498.jpg"
       },
       {
         "id": "ww_660435",
@@ -122,7 +102,7 @@
         "unitPrice": "$2.27 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/660435",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/660435.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/660435.jpg"
       },
       {
         "id": "ww_6010159",
@@ -132,7 +112,7 @@
         "unitPrice": "$1.14 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/6010159",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/6010159.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6010159.jpg"
       },
       {
         "id": "ww_167330",
@@ -142,7 +122,7 @@
         "unitPrice": "$1.76 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/167330",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/167330.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/167330.jpg"
       },
       {
         "id": "ww_374587",
@@ -152,7 +132,7 @@
         "unitPrice": "$1.71 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/374587",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/374587.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/374587.jpg"
       },
       {
         "id": "ww_740621",
@@ -162,7 +142,7 @@
         "unitPrice": "$1.88 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/740621",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/740621.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/740621.jpg"
       },
       {
         "id": "ww_263341",
@@ -172,7 +152,7 @@
         "unitPrice": "$1.69 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/263341",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/263341.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/263341.jpg"
       },
       {
         "id": "ww_502387",
@@ -182,7 +162,7 @@
         "unitPrice": "$1.94 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/502387",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/502387.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/502387.jpg"
       },
       {
         "id": "ww_6035164",
@@ -192,7 +172,7 @@
         "unitPrice": "$1.93 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/6035164",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/6035164.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6035164.jpg"
       },
       {
         "id": "ww_387539",
@@ -202,7 +182,27 @@
         "unitPrice": "$1.54 / 100G",
         "available": true,
         "url": "https://www.woolworths.com.au/shop/productdetails/387539",
-        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/387539.jpg"
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/387539.jpg"
+      },
+      {
+        "id": "ww_83841",
+        "name": "Vaalia Kids Probiotic Yoghurt Pouch Lactose Free Blueberry",
+        "brand": "Vaalia",
+        "price": 2.5,
+        "unitPrice": "$1.79 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/83841",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/083841.jpg"
+      },
+      {
+        "id": "ww_389168",
+        "name": "Yoplait YOP Yoghurt With Probiotics Blueberry Pouch",
+        "brand": "Yoplait",
+        "price": 2,
+        "unitPrice": "$1.54 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/389168",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/389168.jpg"
       }
     ],
     "coles": [
