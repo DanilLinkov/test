@@ -1,0 +1,102 @@
+{
+  "term": "acai powder",
+  "slug": "acai-powder",
+  "scrapedAt": "2026-01-10T07:20:40.483Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_1097689833",
+        "name": "100g Acai Powder 100% Organic - Superfood Amazon Berries",
+        "brand": "Orku",
+        "price": 44.99,
+        "unitPrice": "$44.99 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1097689833",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1097689833.jpg"
+      },
+      {
+        "id": "ww_1097689839",
+        "name": "1Kg Acai Powder 100% Organic - Superfood Amazon Berries",
+        "brand": "Orku",
+        "price": 179.99,
+        "unitPrice": "$18.00 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1097689839",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1097689839.jpg"
+      },
+      {
+        "id": "ww_1097619073",
+        "name": "2Kg Acai Powder 100% Organic - Superfood Amazon Berries",
+        "brand": "Orku",
+        "price": 299.99,
+        "unitPrice": "$15.00 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1097619073",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1097619073.jpg"
+      },
+      {
+        "id": "ww_1097689843",
+        "name": "400g Acai Powder 100% Organic - Superfood Amazon Berries",
+        "brand": "Orku",
+        "price": 89.99,
+        "unitPrice": "$22.50 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1097689843",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1097689843.jpg"
+      },
+      {
+        "id": "ww_1097689841",
+        "name": "2.5kg Acai Powder Bucket 100% Organic - Superfood Amazon Berries",
+        "brand": "Orku",
+        "price": 369.99,
+        "unitPrice": "$12.33 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1097689841",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1097689841.jpg"
+      },
+      {
+        "id": "ww_1097689845",
+        "name": "700g Acai Powder Bucket 100% Organic - Superfood Amazon Berries",
+        "brand": "Orku",
+        "price": 139.99,
+        "unitPrice": "$20.00 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1097689845",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1097689845.jpg"
+      },
+      {
+        "id": "ww_575979",
+        "name": "Macro Organic Acai Powder",
+        "brand": "Macro",
+        "price": 18,
+        "unitPrice": "$18.00 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/575979",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/575979.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_7032843",
+        "name": "Organic Acai Powder",
+        "brand": "Tropeaka",
+        "price": 19.5,
+        "unitPrice": "$19.50 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/7032843",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7032843.jpg"
+      },
+      {
+        "id": "coles_1466272",
+        "name": "Super Foods Acai",
+        "brand": "Nature's Way",
+        "price": 18,
+        "unitPrice": "$36.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1466272",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1466272.jpg"
+      }
+    ]
+  },
+  "totalProducts": 9
+}
