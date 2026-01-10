@@ -1,0 +1,412 @@
+{
+  "term": "olive oil",
+  "slug": "olive-oil",
+  "scrapedAt": "2026-01-10T02:58:32.259Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_25065",
+        "name": "Moro Primero Extra Virgin Olive Oil",
+        "brand": "Moro",
+        "price": 16,
+        "unitPrice": "$3.20 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/25065",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/025065.jpg"
+      },
+      {
+        "id": "ww_6008259",
+        "name": "Moro Extra Virgin Olive Oil Squeeze Bottle",
+        "brand": "Moro",
+        "price": 16,
+        "unitPrice": "$3.20 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6008259",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6008259.jpg"
+      },
+      {
+        "id": "ww_370440",
+        "name": "Moro Delicado Light Taste Olive Oil",
+        "brand": "Moro",
+        "price": 27,
+        "unitPrice": "$2.70 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/370440",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/370440.jpg"
+      },
+      {
+        "id": "ww_83992",
+        "name": "Moro Primero Extra Virgin Olive Oil",
+        "brand": "Moro",
+        "price": 65,
+        "unitPrice": "$1.63 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/83992",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/083992.jpg"
+      },
+      {
+        "id": "ww_698861",
+        "name": "Essentials Olive Oil",
+        "brand": "Essentials",
+        "price": 11,
+        "unitPrice": "$1.10 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/698861",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/698861.jpg"
+      },
+      {
+        "id": "ww_698956",
+        "name": "Woolworths Spanish Extra Virgin Olive Oil",
+        "brand": "Woolworths",
+        "price": 9,
+        "unitPrice": "$1.80 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/698956",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/698956.jpg"
+      },
+      {
+        "id": "ww_698868",
+        "name": "Woolworths Extra Virgin Spanish Olive Oil",
+        "brand": "Woolworths",
+        "price": 15,
+        "unitPrice": "$1.50 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/698868",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/698868.jpg"
+      },
+      {
+        "id": "ww_257879",
+        "name": "Red Island Extra Virgin Olive Oil Cold Pressed",
+        "brand": "Red Island",
+        "price": 25,
+        "unitPrice": "$2.50 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/257879",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/257879.jpg"
+      },
+      {
+        "id": "ww_217214",
+        "name": "Red Island Extra Virgin Olive Oil Extra Virgin",
+        "brand": "Red Island",
+        "price": 6,
+        "unitPrice": "$2.40 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/217214",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/217214.jpg"
+      },
+      {
+        "id": "ww_260739",
+        "name": "Woolworths Extra Virgin Olive Oil Spray",
+        "brand": "Woolworths",
+        "price": 3.3,
+        "unitPrice": "$2.20 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/260739",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/260739.jpg"
+      },
+      {
+        "id": "ww_83991",
+        "name": "Moro Primero Extra Virgin Olive Oil",
+        "brand": "Moro",
+        "price": 27,
+        "unitPrice": "$2.70 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/83991",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/083991.jpg"
+      },
+      {
+        "id": "ww_49301",
+        "name": "Moro Tradicional Mild Taste Olive Oil",
+        "brand": "Moro",
+        "price": 16,
+        "unitPrice": "$3.20 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/49301",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/049301.jpg"
+      },
+      {
+        "id": "ww_49304",
+        "name": "Moro Delicado Light Taste Olive Oil",
+        "brand": "Moro",
+        "price": 16,
+        "unitPrice": "$3.20 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/49304",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/049304.jpg"
+      },
+      {
+        "id": "ww_94998",
+        "name": "Moro Tradicional Mild Taste Olive Oil",
+        "brand": "Moro",
+        "price": 65,
+        "unitPrice": "$1.63 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/94998",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/094998.jpg"
+      },
+      {
+        "id": "ww_562983",
+        "name": "Macro Organic Extra Virgin Olive Oil Mediterranean",
+        "brand": "Macro Organic",
+        "price": 9.9,
+        "unitPrice": "$1.98 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/562983",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/562983.jpg"
+      },
+      {
+        "id": "ww_237418",
+        "name": "Cobram Classic Extra Virgin Olive Oil",
+        "brand": "Cobram",
+        "price": 25,
+        "unitPrice": "$3.33 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/237418",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/237418.jpg"
+      },
+      {
+        "id": "ww_285931",
+        "name": "La Gina Extra Virgin Olive Oil",
+        "brand": "La Gina",
+        "price": 40,
+        "unitPrice": "$1.06 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/285931",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/285931.jpg"
+      },
+      {
+        "id": "ww_248084",
+        "name": "Woolworths Extra Virgin Olive Oil",
+        "brand": "Woolworths",
+        "price": 11,
+        "unitPrice": "$2.20 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/248084",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/248084.jpg"
+      },
+      {
+        "id": "ww_220016",
+        "name": "Carbonell Extra Virgin Olive Oil",
+        "brand": "Carbonell",
+        "price": 20,
+        "unitPrice": "$2.00 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/220016",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/220016.jpg"
+      },
+      {
+        "id": "ww_217225",
+        "name": "Red Island Cold Pressed Olive Oil Extra Virgin",
+        "brand": "Red Island",
+        "price": 13,
+        "unitPrice": "$2.60 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/217225",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/217225.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_5833557",
+        "name": "Extra Virgin Olive Oil",
+        "brand": "La Espanola",
+        "price": 26,
+        "unitPrice": "$2.60 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5833557",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5833557.jpg"
+      },
+      {
+        "id": "coles_5118100",
+        "name": "Primero Extra Virgin Olive Oil",
+        "brand": "Moro",
+        "price": 27,
+        "unitPrice": "$2.70 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5118100",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5118100.jpg"
+      },
+      {
+        "id": "coles_5118132",
+        "name": "Primero Extra Virgin Olive Oil",
+        "brand": "Moro",
+        "price": 16,
+        "unitPrice": "$3.20 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5118132",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5118132.jpg"
+      },
+      {
+        "id": "coles_3526604",
+        "name": "Classico Extra Virgin Olive Oil",
+        "brand": "Monini",
+        "price": 22,
+        "unitPrice": "$2.93 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3526604",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3526604.jpg"
+      },
+      {
+        "id": "coles_7513309",
+        "name": "Eco Bottle Primero Extra Virgin Olive Oil",
+        "brand": "Moro",
+        "price": 29,
+        "unitPrice": "$1.32 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/7513309",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7513309.jpg"
+      },
+      {
+        "id": "coles_4982450",
+        "name": "Organic Premium Selection Extra Virgin Olive Oil",
+        "brand": "Monini",
+        "price": 17.5,
+        "unitPrice": "$3.50 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4982450",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4982450.jpg"
+      },
+      {
+        "id": "coles_5153360",
+        "name": "Primero Extra Virgin Olive Oil",
+        "brand": "Moro",
+        "price": 65,
+        "unitPrice": "$1.63 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5153360",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5153360.jpg"
+      },
+      {
+        "id": "coles_1327935",
+        "name": "Squeeze Bottle Evoo",
+        "brand": "Moro",
+        "price": 16,
+        "unitPrice": "$32.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1327935",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1327935.jpg"
+      },
+      {
+        "id": "coles_5118110",
+        "name": "El Delicado Light Taste Olive Oil",
+        "brand": "Moro",
+        "price": 27,
+        "unitPrice": "$2.70 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5118110",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5118110.jpg"
+      },
+      {
+        "id": "coles_2107479",
+        "name": "Australian Extra Virgin Olive Oil All Rounder",
+        "brand": "Squeaky Gate",
+        "price": 20,
+        "unitPrice": "$2.67 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2107479",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2107479.jpg"
+      },
+      {
+        "id": "coles_5118143",
+        "name": "Delicado Light Taste Olive Oil",
+        "brand": "Moro",
+        "price": 16,
+        "unitPrice": "$3.20 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5118143",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5118143.jpg"
+      },
+      {
+        "id": "coles_5833943",
+        "name": "Extra Virgin Olive Oil",
+        "brand": "La Espanola",
+        "price": 10,
+        "unitPrice": "$2.00 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5833943",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5833943.jpg"
+      },
+      {
+        "id": "coles_5607376",
+        "name": "Extra Virgin Olive Oil",
+        "brand": "Coles",
+        "price": 15,
+        "unitPrice": "$1.50 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5607376",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5607376.jpg"
+      },
+      {
+        "id": "coles_5847020",
+        "name": "Mild & Light Olive Oil",
+        "brand": "La Espanola",
+        "price": 26,
+        "unitPrice": "$2.60 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5847020",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5847020.jpg"
+      },
+      {
+        "id": "coles_6571900",
+        "name": "Extra Virgin Olive Oil",
+        "brand": "Red Island",
+        "price": 25,
+        "unitPrice": "$2.50 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6571900",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6571900.jpg"
+      },
+      {
+        "id": "coles_5449504",
+        "name": "Extra Virgin Olive Oil",
+        "brand": "Coles",
+        "price": 9,
+        "unitPrice": "$1.80 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5449504",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5449504.jpg"
+      },
+      {
+        "id": "coles_9389517",
+        "name": "Extra Virgin Olive Oil Classic",
+        "brand": "Cobram Estate",
+        "price": 13,
+        "unitPrice": "$3.47 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9389517",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9389517.jpg"
+      },
+      {
+        "id": "coles_3526116",
+        "name": "Extra Virgin Olive Oil Mild Flavour",
+        "brand": "La Espanola",
+        "price": 26,
+        "unitPrice": "$2.60 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3526116",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3526116.jpg"
+      },
+      {
+        "id": "coles_5489768",
+        "name": "Classic Olive Oil",
+        "brand": "Coles",
+        "price": 15,
+        "unitPrice": "$1.50 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5489768",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5489768.jpg"
+      },
+      {
+        "id": "coles_5295524",
+        "name": "Classic Olive Oil",
+        "brand": "Coles",
+        "price": 9,
+        "unitPrice": "$1.80 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5295524",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5295524.jpg"
+      }
+    ]
+  },
+  "totalProducts": 40
+}
