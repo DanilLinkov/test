@@ -1,0 +1,251 @@
+{
+  "term": "or milk of your choice - adjust recipe as required",
+  "slug": "or-milk-of-your-choice-adjust-recipe-as-required",
+  "scrapedAt": "2026-01-10T07:59:28.977Z",
+  "results": {
+    "woolworths": [],
+    "coles": [
+      {
+        "id": "coles_175466",
+        "name": "Sweet Christmas Rocky Road",
+        "price": {
+          "total": 66,
+          "portion": 2.5,
+          "consumptionTotal": 45.5,
+          "consumptionPortion": 2
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/sweet-christmas-rocky-road_474328"
+      },
+      {
+        "id": "coles_490032",
+        "name": "Mini chocolate Christmas puddings with caramel sauce",
+        "price": {
+          "total": 95,
+          "portion": 16,
+          "consumptionTotal": 15,
+          "consumptionPortion": 2.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/mini-chocolate-christmas-puddings-with-caramel-sauce_176589"
+      },
+      {
+        "id": "coles_296482",
+        "name": "Choc honeycomb cheesecake slice",
+        "price": {
+          "total": 35,
+          "portion": 2,
+          "consumptionTotal": 23,
+          "consumptionPortion": 1
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/choc-honeycomb-cheesecake-slice_175173"
+      },
+      {
+        "id": "coles_439723",
+        "name": "Peanut Butter Filled Chocolate Cupcakes",
+        "price": {
+          "total": 22,
+          "portion": 2,
+          "consumptionTotal": 7,
+          "consumptionPortion": 0.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/peanut-butter-filled-chocolate-cupcakes_268909"
+      },
+      {
+        "id": "coles_237961",
+        "name": "Choc-peppermint slice",
+        "price": {
+          "total": 20,
+          "portion": 1,
+          "consumptionTotal": 14,
+          "consumptionPortion": 0.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/choc-peppermint-slice_175154"
+      },
+      {
+        "id": "coles_437336",
+        "name": "Double choc berry trifle",
+        "price": {
+          "total": 47.5,
+          "portion": 2.5,
+          "consumptionTotal": 37,
+          "consumptionPortion": 2
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/double-choc-berry-trifle_175456"
+      },
+      {
+        "id": "coles_271454",
+        "name": "Simple chicken biryani recipe",
+        "price": {
+          "total": 62,
+          "portion": 15.5,
+          "consumptionTotal": 21,
+          "consumptionPortion": 5.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/simple-chicken-biryani-recipe_418723"
+      },
+      {
+        "id": "coles_560542",
+        "name": "Vanilla cake recipe",
+        "price": {
+          "total": 27.5,
+          "portion": 2.5,
+          "consumptionTotal": 13,
+          "consumptionPortion": 1
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/vanilla-cake-recipe_202581"
+      },
+      {
+        "id": "coles_931596",
+        "name": "Easy crepe recipe",
+        "price": {
+          "total": 24,
+          "portion": 2.5,
+          "consumptionTotal": 6.5,
+          "consumptionPortion": 0.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/easy-crepe-recipe_175610"
+      },
+      {
+        "id": "coles_135920",
+        "name": "Easy beef curry recipe",
+        "price": {
+          "total": 46,
+          "portion": 11.5,
+          "consumptionTotal": 21.5,
+          "consumptionPortion": 5.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/easy-beef-curry-recipe_416367"
+      },
+      {
+        "id": "coles_694097",
+        "name": "Christmas tree cupcake recipe",
+        "price": {
+          "total": 52.5,
+          "portion": 5.5,
+          "consumptionTotal": 37.5,
+          "consumptionPortion": 4
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/christmas-tree-cupcake-recipe_174483"
+      },
+      {
+        "id": "coles_914015",
+        "name": "Chocolate donut recipe",
+        "price": {
+          "total": 29,
+          "portion": 5,
+          "consumptionTotal": 4.5,
+          "consumptionPortion": 1
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/chocolate-donut-recipe_262565"
+      },
+      {
+        "id": "coles_455768",
+        "name": "Pikelet recipe",
+        "price": {
+          "total": 13,
+          "portion": 1,
+          "consumptionTotal": 2,
+          "consumptionPortion": 0.13
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/pikelet-recipe_202292"
+      },
+      {
+        "id": "coles_761734",
+        "name": "Chilled citrus pudding with raspberry cream ",
+        "price": {
+          "total": 57,
+          "portion": 7,
+          "consumptionTotal": 30.5,
+          "consumptionPortion": 4
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/chilled-citrus-pudding-with-raspberry-cream_205557"
+      },
+      {
+        "id": "coles_351072",
+        "name": "Lemon curd and blackberry brioche pudding",
+        "price": {
+          "total": 46,
+          "portion": 7.5,
+          "consumptionTotal": 25,
+          "consumptionPortion": 4
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/lemon-curd-and-blackberry-brioche-pudding_202371"
+      },
+      {
+        "id": "coles_408224",
+        "name": "Burger bun French toast",
+        "price": {
+          "total": 35.5,
+          "portion": 18,
+          "consumptionTotal": 6.5,
+          "consumptionPortion": 3.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/burger-bun-french-toast_202530"
+      },
+      {
+        "id": "coles_160152",
+        "name": "Turnip, sweet potato and paneer curry",
+        "price": {
+          "total": 54,
+          "portion": 13.5,
+          "consumptionTotal": 26,
+          "consumptionPortion": 6.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/turnip-sweet-potato-and-paneer-curry_202107"
+      },
+      {
+        "id": "coles_683966",
+        "name": "Curtis Stone’s spring berry and almond Danish braids",
+        "price": {
+          "total": 32.5,
+          "portion": 3.5,
+          "consumptionTotal": 18,
+          "consumptionPortion": 2
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/curtis-stones-spring-berry-and-almond-danish-braids_205544"
+      },
+      {
+        "id": "coles_611725",
+        "name": "Cherry jam steamed pudding",
+        "price": {
+          "total": 29.5,
+          "portion": 5,
+          "consumptionTotal": 12.5,
+          "consumptionPortion": 2
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/cherry-jam-steamed-pudding_202601"
+      },
+      {
+        "id": "coles_108406",
+        "name": "Pistachio-strawberry sheet cake with labne frosting  ",
+        "price": {
+          "total": 68,
+          "portion": 7,
+          "consumptionTotal": 34.5,
+          "consumptionPortion": 3.5
+        },
+        "available": true,
+        "url": "https://www.coles.com.au/product/pistachio-strawberry-sheet-cake-with-labne-frosting_205289"
+      }
+    ]
+  },
+  "totalProducts": 20
+}

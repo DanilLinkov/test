@@ -1,0 +1,412 @@
+{
+  "term": "granola",
+  "slug": "granola",
+  "scrapedAt": "2026-01-10T08:03:20.672Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_6016551",
+        "name": "Blue Frog Keto Raspberry Macadamia & Vanilla Muesli",
+        "brand": "Blue Frog",
+        "price": 14.75,
+        "unitPrice": "$4.92 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6016551",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6016551.jpg"
+      },
+      {
+        "id": "ww_153261",
+        "name": "Blue Frog Macadamia, Almond & Manuka Honey Muesli",
+        "brand": "Blue Frog",
+        "price": 14.75,
+        "unitPrice": "$4.21 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/153261",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/153261.jpg"
+      },
+      {
+        "id": "ww_274329",
+        "name": "Blue Frog Keto Cereal Almond Butter & Vanilla Bean",
+        "brand": "Blue Frog",
+        "price": 14.75,
+        "unitPrice": "$4.92 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/274329",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/274329.jpg"
+      },
+      {
+        "id": "ww_208100",
+        "name": "Blue Frog Keto Almond, Peanut & Raspberry Cereal",
+        "brand": "Blue Frog",
+        "price": 14.75,
+        "unitPrice": "$4.92 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/208100",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/208100.jpg"
+      },
+      {
+        "id": "ww_609556",
+        "name": "Jordans Simply Crunchy Oat Granola Honey",
+        "brand": "Jordans",
+        "price": 5.6,
+        "unitPrice": "$0.75 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/609556",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/609556.jpg"
+      },
+      {
+        "id": "ww_790810",
+        "name": "Jordans Bursting With Berries Crunchy Oat Granola",
+        "brand": "Jordans",
+        "price": 5.6,
+        "unitPrice": "$1.12 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/790810",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/790810.jpg"
+      },
+      {
+        "id": "ww_147307",
+        "name": "Jordans Simply Granola Crunchy Oat & Honey",
+        "brand": "Jordans",
+        "price": 12.7,
+        "unitPrice": "$0.85 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/147307",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/147307.jpg"
+      },
+      {
+        "id": "ww_150504",
+        "name": "Hubbards Raspberry  & Coconut Toasted Granola",
+        "brand": "Hubbards",
+        "price": 8.5,
+        "unitPrice": "$1.89 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/150504",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/150504.jpg"
+      },
+      {
+        "id": "ww_208900",
+        "name": "Carman's Granola Protein Rich Almond & Hazelnut",
+        "brand": "Carman's",
+        "price": 8.9,
+        "unitPrice": "$1.98 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/208900",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/208900.jpg"
+      },
+      {
+        "id": "ww_148981",
+        "name": "Hubbards Cocoa & Coconut Toasted Granola",
+        "brand": "Hubbards",
+        "price": 8.5,
+        "unitPrice": "$1.89 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/148981",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/148981.jpg"
+      },
+      {
+        "id": "ww_6034190",
+        "name": "Blue Frog Keto Ginger Nut Crunch Mix",
+        "brand": "Blue Frog",
+        "price": 14.75,
+        "unitPrice": "$4.92 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6034190",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6034190.jpg"
+      },
+      {
+        "id": "ww_53843",
+        "name": "Nature Valley Crunchy Oats & Honey Granola Bars",
+        "brand": "Nature Valley",
+        "price": 6.9,
+        "unitPrice": "$2.74 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/53843",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/053843.jpg"
+      },
+      {
+        "id": "ww_175403",
+        "name": "Nature Valley Crunchy Family Variety Granola Bars",
+        "brand": "Nature Valley",
+        "price": 9,
+        "unitPrice": "$1.79 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/175403",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/175403.jpg"
+      },
+      {
+        "id": "ww_53847",
+        "name": "Nature Valley Crunchy Variety Granola Bars",
+        "brand": "Nature Valley",
+        "price": 6.9,
+        "unitPrice": "$2.74 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/53847",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/053847.jpg"
+      },
+      {
+        "id": "ww_686551",
+        "name": "Jordans Granola Low Sugar Almond Hazelnut",
+        "brand": "Jordans",
+        "price": 5.6,
+        "unitPrice": "$1.12 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/686551",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/686551.jpg"
+      },
+      {
+        "id": "ww_85598",
+        "name": "Jordans Low Sugar Granola Blueberry & Coconut",
+        "brand": "Jordans",
+        "price": 5.6,
+        "unitPrice": "$1.12 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/85598",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/085598.jpg"
+      },
+      {
+        "id": "ww_143191",
+        "name": "Carman's Granola Raspberry & Coconut Low Sugar",
+        "brand": "Carman's",
+        "price": 8.9,
+        "unitPrice": "$1.98 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/143191",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/143191.jpg"
+      },
+      {
+        "id": "ww_953876",
+        "name": "Carman's Gut Loving Granola Honey Roasted Almond & Vanilla",
+        "brand": "Carman's",
+        "price": 8.9,
+        "unitPrice": "$2.09 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/953876",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/953876.jpg"
+      },
+      {
+        "id": "ww_867025",
+        "name": "Carman's Granola 5 Grain & Seed Almond Vanilla & Cinnamon",
+        "brand": "Carman's",
+        "price": 8.9,
+        "unitPrice": "$1.98 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/867025",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/867025.jpg"
+      },
+      {
+        "id": "ww_6030841",
+        "name": "Kellogg's High Protein Granola Apple Crumble",
+        "brand": "Kellogg's",
+        "price": 9,
+        "unitPrice": "$2.00 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6030841",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6030841.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_2499255",
+        "name": "Simply Crunchy Oat Granola",
+        "brand": "Jordans",
+        "price": 9,
+        "unitPrice": "$1.20 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2499255",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2499255.jpg"
+      },
+      {
+        "id": "coles_3215105",
+        "name": "Low Sugar Granola Almond  And Hazelnut",
+        "brand": "Jordans",
+        "price": 9,
+        "unitPrice": "$1.80 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3215105",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3215105.jpg"
+      },
+      {
+        "id": "coles_8962090",
+        "name": "Gluten Free Granola Honey Roasted Nut",
+        "brand": "Food For Health",
+        "price": 8,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8962090",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8962090.jpg"
+      },
+      {
+        "id": "coles_4308631",
+        "name": "Granola Low Sugar Raspberry & Coconut",
+        "brand": "Carman's",
+        "price": 8.9,
+        "unitPrice": "$1.98 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4308631",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4308631.jpg"
+      },
+      {
+        "id": "coles_1750254",
+        "name": "Crunchy Oat Granola With Berries Cereal",
+        "brand": "Jordans",
+        "price": 9,
+        "unitPrice": "$1.80 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1750254",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1750254.jpg"
+      },
+      {
+        "id": "coles_5297417",
+        "name": "Granola Protein Rich Almond & Hazelnut",
+        "brand": "Carman's",
+        "price": 8.9,
+        "unitPrice": "$1.98 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5297417",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5297417.jpg"
+      },
+      {
+        "id": "coles_8962115",
+        "name": "Gluten Free Granola Caramelised Apple Crumble",
+        "brand": "Food For Health",
+        "price": 8,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8962115",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8962115.jpg"
+      },
+      {
+        "id": "coles_8962137",
+        "name": "Gluten Free Granola Maple Almond & Vanilla",
+        "brand": "Food For Health",
+        "price": 8,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8962137",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8962137.jpg"
+      },
+      {
+        "id": "coles_8962126",
+        "name": "Gluten Free Granola Creamy Vanilla & Berries",
+        "brand": "Food For Health",
+        "price": 8,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8962126",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8962126.jpg"
+      },
+      {
+        "id": "coles_9013023",
+        "name": "Low Sugar Cereal Raspberry & Coconut Granola",
+        "brand": "Carman's",
+        "price": 12.5,
+        "unitPrice": "$1.56 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9013023",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9013023.jpg"
+      },
+      {
+        "id": "coles_4312832",
+        "name": "Protein Low Sugar Granola Peanut Butter",
+        "brand": "Red Tractor",
+        "price": 9,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4312832",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4312832.jpg"
+      },
+      {
+        "id": "coles_3779450",
+        "name": "Granola Simply Nut",
+        "brand": "Dorset",
+        "price": 7,
+        "unitPrice": "$1.56 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3779450",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3779450.jpg"
+      },
+      {
+        "id": "coles_3779428",
+        "name": "Granola Berry",
+        "brand": "Dorset",
+        "price": 7,
+        "unitPrice": "$1.56 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3779428",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3779428.jpg"
+      },
+      {
+        "id": "coles_3500382",
+        "name": "Pink Lady Apple & Blueberry Granola",
+        "brand": "Carman's",
+        "price": 8.9,
+        "unitPrice": "$1.98 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3500382",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3500382.jpg"
+      },
+      {
+        "id": "coles_4312843",
+        "name": "Protein Low Sugar Granola Apple Caramel",
+        "brand": "Red Tractor",
+        "price": 9,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4312843",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4312843.jpg"
+      },
+      {
+        "id": "coles_5288482",
+        "name": "Low Sugar Granola Vanilla Blueberry",
+        "brand": "RT",
+        "price": 9,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5288482",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5288482.jpg"
+      },
+      {
+        "id": "coles_4312821",
+        "name": "Protein Low Sugar Granola Choc Almond",
+        "brand": "Red Tractor",
+        "price": 9,
+        "unitPrice": "$2.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4312821",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4312821.jpg"
+      },
+      {
+        "id": "coles_3500327",
+        "name": "Almond Vanilla & Cinnamon Granola",
+        "brand": "Carman's",
+        "price": 8.9,
+        "unitPrice": "$1.98 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3500327",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3500327.jpg"
+      },
+      {
+        "id": "coles_3779381",
+        "name": "Low Sugar Granola Blueberry & Coconut",
+        "brand": "Jordans",
+        "price": 9,
+        "unitPrice": "$1.80 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3779381",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3779381.jpg"
+      },
+      {
+        "id": "coles_4308551",
+        "name": "Gluten Free Keto Granola",
+        "brand": "Farmer Jo",
+        "price": 9.5,
+        "unitPrice": "$3.17 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4308551",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4308551.jpg"
+      }
+    ]
+  },
+  "totalProducts": 40
+}

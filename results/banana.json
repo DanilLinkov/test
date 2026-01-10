@@ -1,0 +1,412 @@
+{
+  "term": "banana",
+  "slug": "banana",
+  "scrapedAt": "2026-01-10T08:01:30.795Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_133211",
+        "name": "Cavendish Bananas",
+        "brand": null,
+        "price": 0.76,
+        "unitPrice": "$0.76 / 1EA",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/133211",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/133211.jpg"
+      },
+      {
+        "id": "ww_157649",
+        "name": "Eat Later Cavendish Bananas",
+        "brand": null,
+        "price": 0.76,
+        "unitPrice": "$0.76 / 1EA",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/157649",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/157649.jpg"
+      },
+      {
+        "id": "ww_106218",
+        "name": "Bananas Kids",
+        "brand": null,
+        "price": 3.7,
+        "unitPrice": "$3.70 / 1EA",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/106218",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/106218.jpg"
+      },
+      {
+        "id": "ww_306510",
+        "name": "Macro Organic Banana",
+        "brand": "Macro",
+        "price": 1.08,
+        "unitPrice": "$1.08 / 1EA",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/306510",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/306510.jpg"
+      },
+      {
+        "id": "ww_180148",
+        "name": "Banana Red Tipped",
+        "brand": null,
+        "price": 1.12,
+        "unitPrice": "$1.12 / 1EA",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/180148",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/180148.jpg"
+      },
+      {
+        "id": "ww_133390",
+        "name": "Banana Lady Finger",
+        "brand": null,
+        "price": 1.44,
+        "unitPrice": "$1.44 / 1EA",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/133390",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/133390.jpg"
+      },
+      {
+        "id": "ww_532199",
+        "name": "Creative Gourmet Frozen Banana Chunks",
+        "brand": "Creative Gourmet",
+        "price": 5,
+        "unitPrice": "$10.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/532199",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/532199.jpg"
+      },
+      {
+        "id": "ww_607875",
+        "name": "Woolworths Mini Banana Muffin",
+        "brand": "Woolworths",
+        "price": 4.5,
+        "unitPrice": "$0.56 / 1EA",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/607875",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/607875.jpg"
+      },
+      {
+        "id": "ww_726361",
+        "name": "Woolworths Banana Chips",
+        "brand": "Woolworths",
+        "price": 4,
+        "unitPrice": "$13.33 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/726361",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/726361.jpg"
+      },
+      {
+        "id": "ww_169531",
+        "name": "Wicked Sister High Protein Banana Pudding",
+        "brand": "Wicked Sister",
+        "price": 1.65,
+        "unitPrice": "$0.97 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/169531",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/169531.jpg"
+      },
+      {
+        "id": "ww_6010720",
+        "name": "Woolworths Banana Yoghurt Pouch Banana",
+        "brand": "Woolworths",
+        "price": 0.8,
+        "unitPrice": "$1.14 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6010720",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6010720.jpg"
+      },
+      {
+        "id": "ww_328822",
+        "name": "Woolworths Banana Bread Slices",
+        "brand": "Woolworths",
+        "price": 5.75,
+        "unitPrice": "$1.15 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/328822",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/328822.jpg"
+      },
+      {
+        "id": "ww_193654",
+        "name": "Woolworths Smiling Tums Banana Custard",
+        "brand": "Woolworths",
+        "price": 1,
+        "unitPrice": "$0.83 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/193654",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/193654.jpg"
+      },
+      {
+        "id": "ww_669672",
+        "name": "Woolworths Smiling Tums Pear Banana & Mango",
+        "brand": "Woolworths",
+        "price": 1,
+        "unitPrice": "$0.83 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/669672",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/669672.jpg"
+      },
+      {
+        "id": "ww_921669",
+        "name": "Woolworths Banana Loaf",
+        "brand": "Woolworths",
+        "price": 5.8,
+        "unitPrice": "$1.05 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/921669",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/921669.jpg"
+      },
+      {
+        "id": "ww_193657",
+        "name": "Woolworths Smiling Tums Pear, Banana & Blueberry with Oats 6+ Months",
+        "brand": "Woolworths",
+        "price": 1,
+        "unitPrice": "$0.83 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/193657",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/193657.jpg"
+      },
+      {
+        "id": "ww_263032",
+        "name": "Woolworths Banana Muffin Bar",
+        "brand": "Woolworths",
+        "price": 6.4,
+        "unitPrice": "$1.60 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/263032",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/263032.jpg"
+      },
+      {
+        "id": "ww_707281",
+        "name": "Woolworths Banana Bread Slice",
+        "brand": "Woolworths",
+        "price": 2,
+        "unitPrice": "$2.00 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/707281",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/707281.jpg"
+      },
+      {
+        "id": "ww_669671",
+        "name": "Woolworths Smiling Tums 6 Months+ Apple & Banana With Oats",
+        "brand": "Woolworths",
+        "price": 1,
+        "unitPrice": "$0.83 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/669671",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/669671.jpg"
+      },
+      {
+        "id": "ww_256597",
+        "name": "Life Savers Bananas",
+        "brand": "Life Savers",
+        "price": 5,
+        "unitPrice": "$3.13 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/256597",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/256597.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_409499",
+        "name": "Bananas",
+        "brand": "Coles",
+        "price": 0.72,
+        "unitPrice": "$4.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/409499",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/409499.jpg"
+      },
+      {
+        "id": "coles_2511791",
+        "name": "Bananas Mini Pack",
+        "brand": "Coles",
+        "price": 4,
+        "unitPrice": "$5.33 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2511791",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2511791.jpg"
+      },
+      {
+        "id": "coles_132056",
+        "name": "Lady Finger Bananas",
+        "brand": "Coles",
+        "price": 1.25,
+        "unitPrice": "$8.90 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/132056",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/132056.jpg"
+      },
+      {
+        "id": "coles_2728964",
+        "name": "Banana Muffins 9 Pack",
+        "brand": "Coles",
+        "price": 4.5,
+        "unitPrice": "$1.43 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2728964",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2728964.jpg"
+      },
+      {
+        "id": "coles_1039770",
+        "name": "Organic Banana",
+        "brand": "Coles",
+        "price": 1.1,
+        "unitPrice": "$6.50 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1039770",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1039770.jpg"
+      },
+      {
+        "id": "coles_5556581",
+        "name": "Bananas",
+        "brand": "Life Savers",
+        "price": 5,
+        "unitPrice": "$3.13 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5556581",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5556581.jpg"
+      },
+      {
+        "id": "coles_1013493",
+        "name": "Squeezie Banana Yoghurt Pouch",
+        "brand": "Coles",
+        "price": 0.8,
+        "unitPrice": "$1.14 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1013493",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1013493.jpg"
+      },
+      {
+        "id": "coles_2915724",
+        "name": "Banana Bread Slices 5 Pack",
+        "brand": "Coles",
+        "price": 6.15,
+        "unitPrice": "$1.23 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2915724",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2915724.jpg"
+      },
+      {
+        "id": "coles_9174565",
+        "name": "Bananas Red Tipped",
+        "brand": "Coles",
+        "price": 1.06,
+        "unitPrice": "$5.90 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9174565",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9174565.jpg"
+      },
+      {
+        "id": "coles_3059972",
+        "name": "Frozen Banana Chunks",
+        "brand": "Creative Gourmet",
+        "price": 5,
+        "unitPrice": "$10.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3059972",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3059972.jpg"
+      },
+      {
+        "id": "coles_6569240",
+        "name": "Petit Miam Squeezie Banana Yoghurt Pouch",
+        "brand": "Yoplait",
+        "price": 1.2,
+        "unitPrice": "$1.71 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6569240",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6569240.jpg"
+      },
+      {
+        "id": "coles_3883747",
+        "name": "Banana Muffin Bars 10 Pack",
+        "brand": "Coles",
+        "price": 4.5,
+        "unitPrice": "$1.07 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3883747",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3883747.jpg"
+      },
+      {
+        "id": "coles_9120090",
+        "name": "Banana Bread",
+        "brand": "Coles",
+        "price": 5.8,
+        "unitPrice": "$1.05 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9120090",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9120090.jpg"
+      },
+      {
+        "id": "coles_4868319",
+        "name": "Banana Mango Pineapple",
+        "brand": "Creative Gourmet",
+        "price": 5.65,
+        "unitPrice": "$14.13 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4868319",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4868319.jpg"
+      },
+      {
+        "id": "coles_4494060",
+        "name": "Sister High Protein Banana Pudding",
+        "brand": "Wicked",
+        "price": 2.6,
+        "unitPrice": "$1.53 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4494060",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4494060.jpg"
+      },
+      {
+        "id": "coles_3017655",
+        "name": "Banana Chips",
+        "brand": "Coles",
+        "price": 3,
+        "unitPrice": "$15.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3017655",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3017655.jpg"
+      },
+      {
+        "id": "coles_3996947",
+        "name": "Banana Bread Loaf Mix",
+        "brand": "Green's",
+        "price": 3.8,
+        "unitPrice": "$0.95 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3996947",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3996947.jpg"
+      },
+      {
+        "id": "coles_8704346",
+        "name": "Probiotics Banana Kids Yoghurt Pouch",
+        "brand": "Vaalia",
+        "price": 2.5,
+        "unitPrice": "$1.79 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8704346",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8704346.jpg"
+      },
+      {
+        "id": "coles_3539526",
+        "name": "Kids Greek Pouch Yoghurt Banana",
+        "brand": "Tamar Valley",
+        "price": 2.5,
+        "unitPrice": "$2.27 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3539526",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3539526.jpg"
+      },
+      {
+        "id": "coles_3910442",
+        "name": "Reduced Sugar Banana Bread Slices",
+        "brand": "Coles",
+        "price": 6.15,
+        "unitPrice": "$1.23 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3910442",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3910442.jpg"
+      }
+    ]
+  },
+  "totalProducts": 40
+}

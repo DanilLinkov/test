@@ -1,0 +1,272 @@
+{
+  "term": "handful raspberries",
+  "slug": "handful-raspberries",
+  "scrapedAt": "2026-01-10T08:02:13.403Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_453364",
+        "name": "Raspberries Punnet",
+        "brand": null,
+        "price": 5,
+        "unitPrice": "$29.41 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/453364",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/453364.jpg"
+      },
+      {
+        "id": "ww_260004",
+        "name": "Woolworths Frozen Raspberries",
+        "brand": "Woolworths",
+        "price": 8,
+        "unitPrice": "$16.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/260004",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/260004.jpg"
+      },
+      {
+        "id": "ww_815127",
+        "name": "Macro Organic Frozen Raspberries",
+        "brand": "Macro",
+        "price": 9.3,
+        "unitPrice": "$20.67 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/815127",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/815127.jpg"
+      },
+      {
+        "id": "ww_730629",
+        "name": "Bulla Icy Pops Lemonade Raspberry & Cola",
+        "brand": "Bulla",
+        "price": 5,
+        "unitPrice": "$0.71 / 100ML",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/730629",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/730629.jpg"
+      },
+      {
+        "id": "ww_307975",
+        "name": "Allen's Ripe Raspberries Lollies Bag",
+        "brand": "Allen's",
+        "price": 3,
+        "unitPrice": "$1.58 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/307975",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/307975.jpg"
+      },
+      {
+        "id": "ww_815736",
+        "name": "Darrell Lea Twists Raspberry Liquorice",
+        "brand": "Darrell Lea",
+        "price": null,
+        "unitPrice": "",
+        "available": false,
+        "url": "https://www.woolworths.com.au/shop/productdetails/815736",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/815736.jpg"
+      },
+      {
+        "id": "ww_6022769",
+        "name": "The Natural Confectionery Co. Juicy Bursts Lollies Strawberry & Raspberry",
+        "brand": "The Natural Confectionery Co.",
+        "price": 5,
+        "unitPrice": "$3.33 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6022769",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6022769.jpg"
+      },
+      {
+        "id": "ww_310026",
+        "name": "Life Savers Raspberry Sherbert Fizz Stix",
+        "brand": "Life Savers",
+        "price": 5,
+        "unitPrice": "$2.50 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/310026",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/310026.jpg"
+      },
+      {
+        "id": "ww_334142",
+        "name": "Darrell Lea Allsorts Raspberry",
+        "brand": "Darrell Lea",
+        "price": 5.5,
+        "unitPrice": "$2.50 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/334142",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/334142.jpg"
+      },
+      {
+        "id": "ww_334152",
+        "name": "Life Savers Raspberry Twisters",
+        "brand": "Life Savers",
+        "price": 2,
+        "unitPrice": "$5.00 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/334152",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/334152.jpg"
+      },
+      {
+        "id": "ww_6045950",
+        "name": "Trolli Blue Raspberry Cloud Lollies",
+        "brand": "Trolli",
+        "price": 3,
+        "unitPrice": "$2.14 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6045950",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6045950.jpg"
+      },
+      {
+        "id": "ww_815732",
+        "name": "Darrell Lea Liqourice Twist Milk Chocolate Raspberry",
+        "brand": "Darrell Lea",
+        "price": 4.5,
+        "unitPrice": "$2.25 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/815732",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/815732.jpg"
+      },
+      {
+        "id": "ww_1120897073",
+        "name": "1kg Raspberries Lollies",
+        "brand": "",
+        "price": 13.99,
+        "unitPrice": "$1.40 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1120897073",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1120897073.jpg"
+      },
+      {
+        "id": "ww_1120894959",
+        "name": "1kg Fabulicious Raspberry Twister",
+        "brand": "",
+        "price": 17.99,
+        "unitPrice": "$1.80 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1120894959",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1120894959.jpg"
+      },
+      {
+        "id": "ww_1119823165",
+        "name": "Sugarless Confectionery Raspberry Chews 70g",
+        "brand": "",
+        "price": 4.99,
+        "unitPrice": "$7.13 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1119823165",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1119823165.jpg"
+      },
+      {
+        "id": "ww_1122719759",
+        "name": "True Gum Raspberry & Vanilla Gum 21g",
+        "brand": "True Gum",
+        "price": 2.99,
+        "unitPrice": "$14.24 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1122719759",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1122719759.jpg"
+      },
+      {
+        "id": "ww_1122816377",
+        "name": "Raspberry Lemonade & Pineapple Sour Straps (1.2kg)",
+        "brand": "",
+        "price": 21.99,
+        "unitPrice": "$1.83 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1122816377",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1122816377.jpg"
+      },
+      {
+        "id": "ww_1119530121",
+        "name": "Jolly Rancher Hard Candy Blue Raspberry 198g",
+        "brand": "",
+        "price": 10,
+        "unitPrice": "$5.05 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1119530121",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1119530121.jpg"
+      },
+      {
+        "id": "ww_1120599149",
+        "name": "Allens Red Ripperz Redskins Raspberry Candy Bag 800g",
+        "brand": "",
+        "price": 30,
+        "unitPrice": "$3.75 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1120599149",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1120599149.jpg"
+      },
+      {
+        "id": "ww_1120895129",
+        "name": "Lollinauts Sour Straps Tub - Raspberry, Lemon & Pineapple 1.2kg",
+        "brand": "",
+        "price": 16.99,
+        "unitPrice": "$1.42 / 100G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1120895129",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1120895129.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_9216348",
+        "name": "Naturals Foaming Hand Wash Raspberry",
+        "brand": "Palmolive",
+        "price": 4,
+        "unitPrice": "$1.60 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9216348",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9216348.jpg"
+      },
+      {
+        "id": "coles_3014588",
+        "name": "Naturals Foaming Hand Wash Raspberry Refill",
+        "brand": "Palmolive",
+        "price": 5.4,
+        "unitPrice": "$0.54 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3014588",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3014588.jpg"
+      },
+      {
+        "id": "coles_8962738",
+        "name": "Hand Wash Anti-bacterial Raspberry Refill",
+        "brand": "Dettol",
+        "price": 11,
+        "unitPrice": "$1.16 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8962738",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8962738.jpg"
+      },
+      {
+        "id": "coles_2292982",
+        "name": "Foaming Hand Wash Raspberry",
+        "brand": "Coles",
+        "price": 2.5,
+        "unitPrice": "$1.00 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2292982",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2292982.jpg"
+      },
+      {
+        "id": "coles_3208890",
+        "name": "Raspberry & Crisp Apple Dishwashing Liquid",
+        "brand": "Morning Fresh",
+        "price": 10,
+        "unitPrice": "$1.11 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3208890",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3208890.jpg"
+      },
+      {
+        "id": "coles_1063130",
+        "name": "Sorbet Inspired Raspberry Burst Dishwashing Liquid",
+        "brand": "Morning Fresh",
+        "price": 9,
+        "unitPrice": "$1.32 per 100mL",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1063130",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1063130.jpg"
+      }
+    ]
+  },
+  "totalProducts": 26
+}

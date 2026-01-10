@@ -1,0 +1,412 @@
+{
+  "term": "sliced",
+  "slug": "sliced",
+  "scrapedAt": "2026-01-10T08:02:58.122Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_956187",
+        "name": "Don Melosi Double Smoked Ham Sliced From The Deli",
+        "brand": "Don",
+        "price": 28,
+        "unitPrice": "$28.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/956187",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/956187.jpg"
+      },
+      {
+        "id": "ww_613441",
+        "name": "Riverland Fermented Salami Sliced",
+        "brand": "Riverland",
+        "price": 8.3,
+        "unitPrice": "$25.94 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/613441",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/613441.jpg"
+      },
+      {
+        "id": "ww_544764",
+        "name": "Primo Mild Hungarian Sliced Salami Mild",
+        "brand": "Primo",
+        "price": 3.95,
+        "unitPrice": "$49.38 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/544764",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/544764.jpg"
+      },
+      {
+        "id": "ww_59755",
+        "name": "Ingham's Oven Roasted Turkey Breast Sliced From The Deli",
+        "brand": "Ingham's",
+        "price": 30,
+        "unitPrice": "$30.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/59755",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/059755.jpg"
+      },
+      {
+        "id": "ww_6046970",
+        "name": "Woolworths Silverside Corned Beef Shaved From The Deli",
+        "brand": "Woolworths",
+        "price": 28,
+        "unitPrice": "$28.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6046970",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/6046970.jpg"
+      },
+      {
+        "id": "ww_807898",
+        "name": "Mayfair Devon Slices",
+        "brand": "Mayfair",
+        "price": 1.1,
+        "unitPrice": "$11.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/807898",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/807898.jpg"
+      },
+      {
+        "id": "ww_544762",
+        "name": "Primo Chicken Breast Sliced Thinly Sliced",
+        "brand": "Primo",
+        "price": 3.95,
+        "unitPrice": "$49.38 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/544762",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/544762.jpg"
+      },
+      {
+        "id": "ww_248933",
+        "name": "Primo Mild Salami Sliced Salt Reduced",
+        "brand": "Primo",
+        "price": 3.95,
+        "unitPrice": "$49.38 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/248933",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/248933.jpg"
+      },
+      {
+        "id": "ww_248391",
+        "name": "Primo Leg Ham Sliced Salt Reduced Less Salt",
+        "brand": "Primo",
+        "price": 3.95,
+        "unitPrice": "$39.50 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/248391",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/248391.jpg"
+      },
+      {
+        "id": "ww_544696",
+        "name": "Primo English Style Sliced Leg Ham",
+        "brand": "Primo",
+        "price": 3.95,
+        "unitPrice": "$39.50 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/544696",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/544696.jpg"
+      },
+      {
+        "id": "ww_544760",
+        "name": "Primo Double Smoked Sliced Leg Ham Double Smoked",
+        "brand": "Primo",
+        "price": 3.95,
+        "unitPrice": "$39.50 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/544760",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/544760.jpg"
+      },
+      {
+        "id": "ww_1119847363",
+        "name": "Slicer Foldable Adjustable Bread Slicer Fast Slice Thickness Uniform Bread Slicer",
+        "brand": "",
+        "price": 38.44,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1119847363",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1119847363.jpg"
+      },
+      {
+        "id": "ww_1124178925",
+        "name": "Vegetable Grater Manual Carrot Shredder - Multifunction Slicer Slicing Cooking Slicing Cookware",
+        "brand": "",
+        "price": 34.95,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1124178925",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1124178925.jpg"
+      },
+      {
+        "id": "ww_930997",
+        "name": "Jarlsberg Original Cheese Slices Sliced Cheese",
+        "brand": "Jarlsberg",
+        "price": 9,
+        "unitPrice": "$60.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/930997",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/930997.jpg"
+      },
+      {
+        "id": "ww_1113940275",
+        "name": "2Pcs Slicer Vegetable Fruit Slicer Manual Spiral Screw Slicer Potato Cutting",
+        "brand": "",
+        "price": 18.95,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1113940275",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1113940275.jpg"
+      },
+      {
+        "id": "ww_1124435855",
+        "name": "2Pcs Slicer Vegetable Fruit Slicer Manual Spiral Screw Slicer Potato Cutting",
+        "brand": "",
+        "price": 20.74,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1124435855",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1124435855.jpg"
+      },
+      {
+        "id": "ww_930995",
+        "name": "Jarlsberg Lite Cheese Slices Sliced Cheese",
+        "brand": "Jarlsberg",
+        "price": 9,
+        "unitPrice": "$60.00 / 1KG",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/930995",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/930995.jpg"
+      },
+      {
+        "id": "ww_1125074691",
+        "name": "JOYBUY 2Pcs Slicer Vegetable Fruit Slicer Manual Spiral Screw Slicer Potato Cutting",
+        "brand": "",
+        "price": 20.84,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1125074691",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1125074691.jpg"
+      },
+      {
+        "id": "ww_1095918339",
+        "name": "Avanti Folding Mandolin Slicer Cutter Shredder Chopper Slice",
+        "brand": "Avanti",
+        "price": 38.5,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1095918339",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1095918339.jpg"
+      },
+      {
+        "id": "ww_1111277963",
+        "name": "Banana Slicer",
+        "brand": "EZONEDEAL",
+        "price": 11.69,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1111277963",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/1111277963.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_5433050",
+        "name": "Cheese Slices Tasty 24 Pack",
+        "brand": "Coles",
+        "price": 7.9,
+        "unitPrice": "$15.80 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5433050",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5433050.jpg"
+      },
+      {
+        "id": "coles_8071636",
+        "name": "Cinnamon Buns 12 pack",
+        "brand": "Gifflar",
+        "price": 7,
+        "unitPrice": "$2.69 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8071636",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8071636.jpg"
+      },
+      {
+        "id": "coles_1387132",
+        "name": "Caramel Slice",
+        "brand": "Coles",
+        "price": 4.5,
+        "unitPrice": "$2.57 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1387132",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1387132.jpg"
+      },
+      {
+        "id": "coles_4150672",
+        "name": "Chocolate Slices 6 Pack",
+        "brand": "Mr Kipling",
+        "price": 4.2,
+        "unitPrice": "$2.71 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4150672",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4150672.jpg"
+      },
+      {
+        "id": "coles_1387154",
+        "name": "Hedgehog Slices",
+        "brand": "Coles",
+        "price": 4.5,
+        "unitPrice": "$2.57 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1387154",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1387154.jpg"
+      },
+      {
+        "id": "coles_1387165",
+        "name": "Lemon Slice",
+        "brand": "Coles",
+        "price": 4.5,
+        "unitPrice": "$2.57 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1387165",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1387165.jpg"
+      },
+      {
+        "id": "coles_2762237",
+        "name": "Angel Slice 6 Pack",
+        "brand": "Mr Kipling",
+        "price": 4.2,
+        "unitPrice": "$2.55 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2762237",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2762237.jpg"
+      },
+      {
+        "id": "coles_9961413",
+        "name": "Strawberry & Creme Slice",
+        "brand": "Mr Kipling",
+        "price": 4.2,
+        "unitPrice": "$2.55 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9961413",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9961413.jpg"
+      },
+      {
+        "id": "coles_3274782",
+        "name": "Cheddar Cheese Slices",
+        "brand": "Bio",
+        "price": 7.5,
+        "unitPrice": "$37.50 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3274782",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3274782.jpg"
+      },
+      {
+        "id": "coles_4385756",
+        "name": "Cheese Lactose Free Natural Slices",
+        "brand": "Bega",
+        "price": 7.5,
+        "unitPrice": "$30.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4385756",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4385756.jpg"
+      },
+      {
+        "id": "coles_4223889",
+        "name": "Vegan Tasty Cheese Slices",
+        "brand": "Sheese",
+        "price": 7.5,
+        "unitPrice": "$37.50 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4223889",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4223889.jpg"
+      },
+      {
+        "id": "coles_3843298",
+        "name": "Lactose Free Tasty Cheese Slices",
+        "brand": "Liddells",
+        "price": 6.75,
+        "unitPrice": "$27.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3843298",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3843298.jpg"
+      },
+      {
+        "id": "coles_6177374",
+        "name": "Salted Caramel Slice 6 Pack",
+        "brand": "Mr Kipling",
+        "price": 4.2,
+        "unitPrice": "$2.55 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6177374",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6177374.jpg"
+      },
+      {
+        "id": "coles_8962523",
+        "name": "Cafe Style Cookie Caramel Slice",
+        "brand": "Coles",
+        "price": 7.5,
+        "unitPrice": "$2.68 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8962523",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8962523.jpg"
+      },
+      {
+        "id": "coles_8962501",
+        "name": "Cafe Style Rocky Road Slice",
+        "brand": "Coles",
+        "price": 7.5,
+        "unitPrice": "$3.19 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8962501",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8962501.jpg"
+      },
+      {
+        "id": "coles_1647164",
+        "name": "Lemon Slices 6 Pack",
+        "brand": "Mr Kipling",
+        "price": 4.2,
+        "unitPrice": "$2.55 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1647164",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1647164.jpg"
+      },
+      {
+        "id": "coles_1108727",
+        "name": "Deli Cuts Country Honey Leg Ham",
+        "brand": "Don",
+        "price": 4.3,
+        "unitPrice": "$43.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1108727",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1108727.jpg"
+      },
+      {
+        "id": "coles_1050503",
+        "name": "Rollino Cacao",
+        "brand": "Balconi",
+        "price": 2.48,
+        "unitPrice": "$1.12 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1050503",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1050503.jpg"
+      },
+      {
+        "id": "coles_2995982",
+        "name": "Milk Chocolate Cake Bars",
+        "brand": "Cadbury",
+        "price": 6.5,
+        "unitPrice": "$6.19 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2995982",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2995982.jpg"
+      },
+      {
+        "id": "coles_2995993",
+        "name": "Caramel Cake Bars",
+        "brand": "Cadbury",
+        "price": 6.5,
+        "unitPrice": "$6.19 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2995993",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2995993.jpg"
+      }
+    ]
+  },
+  "totalProducts": 40
+}

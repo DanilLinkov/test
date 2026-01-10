@@ -1,0 +1,211 @@
+{
+  "term": "blueberries",
+  "slug": "blueberries",
+  "scrapedAt": "2026-01-10T07:57:31.804Z",
+  "results": {
+    "woolworths": [],
+    "coles": [
+      {
+        "id": "coles_3571948",
+        "name": "Blueberries",
+        "brand": "Coles",
+        "price": 3,
+        "unitPrice": "$17.65 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3571948",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3571948.jpg"
+      },
+      {
+        "id": "coles_1736275",
+        "name": "Blueberries Premium",
+        "brand": "Eureka",
+        "price": 6,
+        "unitPrice": "$30.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1736275",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1736275.jpg"
+      },
+      {
+        "id": "coles_6110023",
+        "name": "Frozen Fruit Blueberries",
+        "brand": "Coles",
+        "price": 6.5,
+        "unitPrice": "$13.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6110023",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6110023.jpg"
+      },
+      {
+        "id": "coles_2409300",
+        "name": "Blueberry Muffins 9 Pack",
+        "brand": "Coles",
+        "price": 4.5,
+        "unitPrice": "$1.43 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2409300",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2409300.jpg"
+      },
+      {
+        "id": "coles_3975696",
+        "name": "Frozen Fruit Blueberries",
+        "brand": "Coles",
+        "price": 12,
+        "unitPrice": "$12.00 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3975696",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3975696.jpg"
+      },
+      {
+        "id": "coles_2409274",
+        "name": "Blueberry Muffins 4 Pack",
+        "brand": "Coles",
+        "price": 4.5,
+        "unitPrice": "$1.07 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2409274",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2409274.jpg"
+      },
+      {
+        "id": "coles_3049742",
+        "name": "Squeezie Blueberry Yoghurt Pouch",
+        "brand": "Coles",
+        "price": 0.8,
+        "unitPrice": "$1.14 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3049742",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3049742.jpg"
+      },
+      {
+        "id": "coles_5164399",
+        "name": "Frozen Blueberries",
+        "brand": "Creative Gourmet",
+        "price": 5.65,
+        "unitPrice": "$18.83 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5164399",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5164399.jpg"
+      },
+      {
+        "id": "coles_3089157",
+        "name": "Kids Greek Yoghurt Pouch Blueberry",
+        "brand": "Tamar Valley",
+        "price": 2.5,
+        "unitPrice": "$2.27 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3089157",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3089157.jpg"
+      },
+      {
+        "id": "coles_8126057",
+        "name": "Petite Miam Kids Yoghurt Pouch Blueberry",
+        "brand": "Yoplait",
+        "price": 1.2,
+        "unitPrice": "$1.71 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8126057",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8126057.jpg"
+      },
+      {
+        "id": "coles_3537881",
+        "name": "Kids Pouch Yoghurt Blueberry",
+        "brand": "Vaalia",
+        "price": 2.5,
+        "unitPrice": "$1.79 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3537881",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3537881.jpg"
+      },
+      {
+        "id": "coles_6800021",
+        "name": "Blueberry Danish Crown",
+        "brand": "Coles",
+        "price": 3.75,
+        "unitPrice": "$1.88 per 1ea",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6800021",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6800021.jpg"
+      },
+      {
+        "id": "coles_3928754",
+        "name": "Australian Frozen Blueberries",
+        "brand": "Oz Group",
+        "price": 5.15,
+        "unitPrice": "$20.60 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3928754",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3928754.jpg"
+      },
+      {
+        "id": "coles_3988654",
+        "name": "Organic Frozen Blueberries",
+        "brand": "Oob",
+        "price": 8,
+        "unitPrice": "$26.67 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3988654",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3988654.jpg"
+      },
+      {
+        "id": "coles_3855592",
+        "name": "Frozen Blueberries",
+        "brand": "Coles Organic",
+        "price": 9.3,
+        "unitPrice": "$20.67 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3855592",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3855592.jpg"
+      },
+      {
+        "id": "coles_4164961",
+        "name": "Blueberries In Syrup",
+        "brand": "Coles",
+        "price": 3.8,
+        "unitPrice": "$9.16 per 1kg",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4164961",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4164961.jpg"
+      },
+      {
+        "id": "coles_6941577",
+        "name": "Blueberry Twist Yoghurt",
+        "brand": "Gippsland Dairy",
+        "price": 7.9,
+        "unitPrice": "$1.13 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/6941577",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/6/6941577.jpg"
+      },
+      {
+        "id": "coles_9907917",
+        "name": "Blueberry Twist Yoghurt",
+        "brand": "Gippsland Dairy",
+        "price": 2.4,
+        "unitPrice": "$1.50 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9907917",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9907917.jpg"
+      },
+      {
+        "id": "coles_1204560",
+        "name": "Blueberry Banana & Apple Snack Bars Real Fruit Baby Food 8 Pack 12+ Months",
+        "brand": "Rafferty's Garden",
+        "price": 4.5,
+        "unitPrice": "$3.52 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1204560",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1204560.jpg"
+      },
+      {
+        "id": "coles_2365157",
+        "name": "Blueberry Fruity Puffs 7+ Months",
+        "brand": "Kiddylicious",
+        "price": 2.2,
+        "unitPrice": "$22.00 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2365157",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2365157.jpg"
+      }
+    ]
+  },
+  "totalProducts": 20
+}

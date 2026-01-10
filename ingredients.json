@@ -472,7 +472,7 @@
       "term": "banana",
       "slug": "banana",
       "addedAt": "2025-01-10T00:00:00Z",
-      "lastScrapedAt": null
+      "lastScrapedAt": "2026-01-10T08:01:30.795Z"
     },
     {
       "term": "apple",
@@ -721,10 +721,64 @@
       "lastScrapedAt": null
     },
     {
-      "term": "acai powder",
-      "slug": "acai-powder",
-      "addedAt": "2026-01-10T07:20:40.486Z",
-      "lastScrapedAt": "2026-01-10T07:20:40.483Z"
+      "term": "blueberries",
+      "slug": "blueberries",
+      "addedAt": "2026-01-10T07:57:31.806Z",
+      "lastScrapedAt": "2026-01-10T07:57:31.804Z"
+    },
+    {
+      "term": "almond milk",
+      "slug": "almond-milk",
+      "addedAt": "2026-01-10T07:58:52.907Z",
+      "lastScrapedAt": "2026-01-10T07:58:52.906Z"
+    },
+    {
+      "term": "or milk of your choice - adjust recipe as required",
+      "slug": "or-milk-of-your-choice-adjust-recipe-as-required",
+      "addedAt": "2026-01-10T07:59:28.979Z",
+      "lastScrapedAt": "2026-01-10T07:59:28.977Z"
+    },
+    {
+      "term": "strawberries",
+      "slug": "strawberries",
+      "addedAt": "2026-01-10T07:59:50.377Z",
+      "lastScrapedAt": "2026-01-10T07:59:50.375Z"
+    },
+    {
+      "term": "sliced",
+      "slug": "sliced",
+      "addedAt": "2026-01-10T08:00:14.379Z",
+      "lastScrapedAt": "2026-01-10T08:02:58.122Z"
+    },
+    {
+      "term": "sprinkle coconut flakes",
+      "slug": "sprinkle-coconut-flakes",
+      "addedAt": "2026-01-10T08:00:35.985Z",
+      "lastScrapedAt": "2026-01-10T08:00:35.983Z"
+    },
+    {
+      "term": "sprinkle chia seeds",
+      "slug": "sprinkle-chia-seeds",
+      "addedAt": "2026-01-10T08:01:07.815Z",
+      "lastScrapedAt": "2026-01-10T08:01:07.814Z"
+    },
+    {
+      "term": "handful raspberries",
+      "slug": "handful-raspberries",
+      "addedAt": "2026-01-10T08:02:13.404Z",
+      "lastScrapedAt": "2026-01-10T08:02:13.403Z"
+    },
+    {
+      "term": "kiwi",
+      "slug": "kiwi",
+      "addedAt": "2026-01-10T08:02:35.573Z",
+      "lastScrapedAt": "2026-01-10T08:02:35.572Z"
+    },
+    {
+      "term": "granola",
+      "slug": "granola",
+      "addedAt": "2026-01-10T08:03:20.674Z",
+      "lastScrapedAt": "2026-01-10T08:03:20.672Z"
     }
   ],
   "lastFullScrape": null
