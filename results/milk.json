@@ -1,0 +1,412 @@
+{
+  "term": "milk",
+  "slug": "milk",
+  "scrapedAt": "2026-01-10T10:34:47.040Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_888140",
+        "name": "Woolworths Full Cream Milk",
+        "brand": "Woolworths",
+        "price": 4.65,
+        "unitPrice": "$1.55 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/888140",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/888140.jpg"
+      },
+      {
+        "id": "ww_888137",
+        "name": "Woolworths Full Cream Milk",
+        "brand": "Woolworths",
+        "price": 3.2,
+        "unitPrice": "$1.60 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/888137",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/888137.jpg"
+      },
+      {
+        "id": "ww_88436",
+        "name": "Dairy Farmers Full Cream Milk Full Cream Milk",
+        "brand": "Dairy Farmers",
+        "price": 4.5,
+        "unitPrice": "$2.25 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/88436",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/088436.jpg"
+      },
+      {
+        "id": "ww_50923",
+        "name": "Woolworths Full Cream Milk",
+        "brand": "Woolworths",
+        "price": 1.65,
+        "unitPrice": "$1.65 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/50923",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/050923.jpg"
+      },
+      {
+        "id": "ww_145536",
+        "name": "Dairy Farmers Full Cream Milk",
+        "brand": "Dairy Farmers",
+        "price": 2.9,
+        "unitPrice": "$2.90 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/145536",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/145536.jpg"
+      },
+      {
+        "id": "ww_405010",
+        "name": "Farmhouse Gold Full Cream Milk Full Cream Milk",
+        "brand": "Farmhouse Gold",
+        "price": 4.7,
+        "unitPrice": "$3.13 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/405010",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/405010.jpg"
+      },
+      {
+        "id": "ww_44528",
+        "name": "Norco Full Cream Milk",
+        "brand": "Norco",
+        "price": 4.5,
+        "unitPrice": "$2.25 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/44528",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/044528.jpg"
+      },
+      {
+        "id": "ww_64746",
+        "name": "Dairy Farmers Full Cream Milk Full Cream Milk",
+        "brand": "Dairy Farmers",
+        "price": 6.5,
+        "unitPrice": "$2.17 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/64746",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/064746.jpg"
+      },
+      {
+        "id": "ww_330251",
+        "name": "Dairy Farmers Heart Active Light Milk",
+        "brand": "Dairy Farmers",
+        "price": 4,
+        "unitPrice": "$4.00 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/330251",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/330251.jpg"
+      },
+      {
+        "id": "ww_204746",
+        "name": "Pauls Smarter White Low Fat Milk",
+        "brand": "Pauls",
+        "price": 4.85,
+        "unitPrice": "$2.43 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/204746",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/204746.jpg"
+      },
+      {
+        "id": "ww_56591",
+        "name": "Norco Full Cream Milk",
+        "brand": "Norco",
+        "price": 6.4,
+        "unitPrice": "$2.13 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/56591",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/056591.jpg"
+      },
+      {
+        "id": "ww_365569",
+        "name": "Macro Organic Full Cream Milk",
+        "brand": "Macro",
+        "price": 2.5,
+        "unitPrice": "$2.50 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/365569",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/365569.jpg"
+      },
+      {
+        "id": "ww_113887",
+        "name": "Riverina Fresh Full Cream Milk",
+        "brand": "Riverina",
+        "price": 4.75,
+        "unitPrice": "$2.38 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/113887",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/113887.jpg"
+      },
+      {
+        "id": "ww_208064",
+        "name": "a2 Milk Full Cream Milk",
+        "brand": "a2 Milk",
+        "price": 6.9,
+        "unitPrice": "$3.45 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/208064",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/208064.jpg"
+      },
+      {
+        "id": "ww_404984",
+        "name": "Farmhouse Gold Unhomogenised Milk Unhomogenised",
+        "brand": "Farmhouse Gold",
+        "price": 4.7,
+        "unitPrice": "$3.13 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/404984",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/404984.jpg"
+      },
+      {
+        "id": "ww_216872",
+        "name": "a2 Milk Full Cream Milk",
+        "brand": "a2 Milk",
+        "price": 3.9,
+        "unitPrice": "$3.90 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/216872",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/216872.jpg"
+      },
+      {
+        "id": "ww_261178",
+        "name": "Pauls Zymil Lactose Free Full Cream Milk",
+        "brand": "Pauls Zymil",
+        "price": 3.9,
+        "unitPrice": "$3.90 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/261178",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/261178.jpg"
+      },
+      {
+        "id": "ww_316080",
+        "name": "Norco Full Cream Milk",
+        "brand": "Norco",
+        "price": 2.75,
+        "unitPrice": "$2.75 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/316080",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/316080.jpg"
+      },
+      {
+        "id": "ww_239521",
+        "name": "a2 Milk Lactose Free Full Cream Milk",
+        "brand": "a2 Milk",
+        "price": 6.9,
+        "unitPrice": "$3.45 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/239521",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/239521.jpg"
+      },
+      {
+        "id": "ww_786816",
+        "name": "Farmers Own Full Cream Milk",
+        "brand": "Farmers Own",
+        "price": 5.85,
+        "unitPrice": "$1.95 / 1L",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/786816",
+        "imageUrl": "https://cdn1.woolworths.media/content/wowproductimages/medium/786816.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_8150288",
+        "name": "Full Cream Milk",
+        "brand": "Coles",
+        "price": 4.65,
+        "unitPrice": "$1.55 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8150288",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8150288.jpg"
+      },
+      {
+        "id": "coles_1105004",
+        "name": "Protein Low Fat Milk",
+        "brand": "Hunt And Brew Extra",
+        "price": 3.95,
+        "unitPrice": "$3.95 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1105004",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1105004.jpg"
+      },
+      {
+        "id": "coles_4309124",
+        "name": "Barista Oat Milk",
+        "brand": "Minor Figures",
+        "price": 3.7,
+        "unitPrice": "$3.70 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4309124",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4309124.jpg"
+      },
+      {
+        "id": "coles_3179680",
+        "name": "A2 Protein Full Cream Milk",
+        "brand": "Australia's Own",
+        "price": 2.9,
+        "unitPrice": "$2.90 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/3179680",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3179680.jpg"
+      },
+      {
+        "id": "coles_4873250",
+        "name": "Full Cream Uht Milk",
+        "brand": "a2 Milk",
+        "price": 3.9,
+        "unitPrice": "$3.90 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/4873250",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/4873250.jpg"
+      },
+      {
+        "id": "coles_439693",
+        "name": "Full Cream Milk",
+        "brand": "Coles",
+        "price": 3.2,
+        "unitPrice": "$1.60 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/439693",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/4/439693.jpg"
+      },
+      {
+        "id": "coles_7667368",
+        "name": "Australian Full Cream Long Life Milk",
+        "brand": "Coles",
+        "price": 1.65,
+        "unitPrice": "$1.65 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/7667368",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7667368.jpg"
+      },
+      {
+        "id": "coles_9107728",
+        "name": "Fresh Lite Milk",
+        "brand": "Coles",
+        "price": 4.65,
+        "unitPrice": "$1.55 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9107728",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9107728.jpg"
+      },
+      {
+        "id": "coles_8379529",
+        "name": "Lite Reduced Fat Milk",
+        "brand": "Coles",
+        "price": 3.2,
+        "unitPrice": "$1.60 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8379529",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8379529.jpg"
+      },
+      {
+        "id": "coles_9052681",
+        "name": "Dairy Full Cream Milk",
+        "brand": "Coles",
+        "price": 1.65,
+        "unitPrice": "$1.65 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9052681",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9052681.jpg"
+      },
+      {
+        "id": "coles_7239433",
+        "name": "Australian Lite Long Life Milk",
+        "brand": "Coles",
+        "price": 1.65,
+        "unitPrice": "$1.65 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/7239433",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7239433.jpg"
+      },
+      {
+        "id": "coles_9760091",
+        "name": "Full Cream Milk",
+        "brand": "a2 Milk",
+        "price": 6.9,
+        "unitPrice": "$3.45 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9760091",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9760091.jpg"
+      },
+      {
+        "id": "coles_7667244",
+        "name": "Australian Skim Long Life Milk",
+        "brand": "Coles",
+        "price": 1.65,
+        "unitPrice": "$1.65 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/7667244",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/7/7667244.jpg"
+      },
+      {
+        "id": "coles_1850656",
+        "name": "Lactose Free Long Life Full Cream Milk",
+        "brand": "Coles",
+        "price": 2,
+        "unitPrice": "$2.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1850656",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1850656.jpg"
+      },
+      {
+        "id": "coles_301721",
+        "name": "Full Cream Long Life Milk",
+        "brand": "Devondale",
+        "price": 2.2,
+        "unitPrice": "$2.20 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/301721",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/301721.jpg"
+      },
+      {
+        "id": "coles_1993256",
+        "name": "Lite Milk Bottle",
+        "brand": "Coles",
+        "price": 1.65,
+        "unitPrice": "$1.65 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1993256",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1993256.jpg"
+      },
+      {
+        "id": "coles_5477930",
+        "name": "Full Cream Milk",
+        "brand": "Pura",
+        "price": 4.5,
+        "unitPrice": "$2.25 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5477930",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5477930.jpg"
+      },
+      {
+        "id": "coles_2750602",
+        "name": "Farmhouse Gold Full Cream Milk",
+        "brand": "Pauls",
+        "price": 4.7,
+        "unitPrice": "$3.13 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/2750602",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2750602.jpg"
+      },
+      {
+        "id": "coles_1850667",
+        "name": "Lactose Free Uht Milk Low Fat",
+        "brand": "Coles",
+        "price": 2,
+        "unitPrice": "$2.00 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1850667",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1850667.jpg"
+      },
+      {
+        "id": "coles_1909941",
+        "name": "Full Cream Milk",
+        "brand": "Devondale",
+        "price": 5.95,
+        "unitPrice": "$1.98 per 1L",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1909941",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1909941.jpg"
+      }
+    ]
+  },
+  "totalProducts": 40
+}
