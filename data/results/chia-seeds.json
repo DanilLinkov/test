@@ -1,7 +1,7 @@
 {
   "term": "Chia seeds",
   "slug": "chia-seeds",
-  "scrapedAt": "2026-01-10T08:53:50.536Z",
+  "scrapedAt": "2026-01-10T09:13:42.235Z",
   "results": {
     "woolworths": [
       {
@@ -277,16 +277,6 @@
         "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/2848398.jpg"
       },
       {
-        "id": "coles_8669609",
-        "name": "Sesame Seeds",
-        "brand": "Wellness Road",
-        "price": 5.5,
-        "unitPrice": "$2.20 per 100g",
-        "available": true,
-        "url": "https://www.coles.com.au/product/8669609",
-        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8669609.jpg"
-      },
-      {
         "id": "coles_3117988",
         "name": "Pumpkin Seeds",
         "brand": "Wellness Road",
@@ -295,6 +285,16 @@
         "available": true,
         "url": "https://www.coles.com.au/product/3117988",
         "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/3/3117988.jpg"
+      },
+      {
+        "id": "coles_8669609",
+        "name": "Sesame Seeds",
+        "brand": "Wellness Road",
+        "price": 5.5,
+        "unitPrice": "$2.20 per 100g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8669609",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8669609.jpg"
       },
       {
         "id": "coles_3621015",
