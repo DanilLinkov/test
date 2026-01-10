@@ -1,0 +1,23 @@
+{
+  "ingredients": [
+    {
+      "term": "paprika",
+      "slug": "paprika",
+      "addedAt": "2025-01-10T00:00:00Z",
+      "lastScrapedAt": "2026-01-10T02:46:21.641Z"
+    },
+    {
+      "term": "olive oil",
+      "slug": "olive-oil",
+      "addedAt": "2025-01-10T00:00:00Z",
+      "lastScrapedAt": null
+    },
+    {
+      "term": "chicken breast",
+      "slug": "chicken-breast",
+      "addedAt": "2025-01-10T00:00:00Z",
+      "lastScrapedAt": null
+    }
+  ],
+  "lastFullScrape": null
+}

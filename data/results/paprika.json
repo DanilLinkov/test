@@ -1,0 +1,302 @@
+{
+  "term": "paprika",
+  "slug": "paprika",
+  "scrapedAt": "2026-01-10T02:46:21.641Z",
+  "results": {
+    "woolworths": [
+      {
+        "id": "ww_251130",
+        "name": "Woolworths Paprika Ground",
+        "brand": "Woolworths",
+        "price": 2,
+        "unitPrice": "$0.67 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/251130",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/251130.jpg"
+      },
+      {
+        "id": "ww_251131",
+        "name": "Woolworths Paprika Smoked",
+        "brand": "Woolworths",
+        "price": 2,
+        "unitPrice": "$0.67 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/251131",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/251131.jpg"
+      },
+      {
+        "id": "ww_57056",
+        "name": "Hoyt's Paprika Sweet",
+        "brand": "Hoyt's",
+        "price": 4.6,
+        "unitPrice": "$0.24 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/57056",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/057056.jpg"
+      },
+      {
+        "id": "ww_94613",
+        "name": "Hoyt's Paprika Sweet",
+        "brand": "Hoyt's",
+        "price": 2.85,
+        "unitPrice": "$0.29 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/94613",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/094613.jpg"
+      },
+      {
+        "id": "ww_6019596",
+        "name": "MasterFoods Paprika Ground",
+        "brand": "MasterFoods",
+        "price": 3.5,
+        "unitPrice": "$1.06 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6019596",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/6019596.jpg"
+      },
+      {
+        "id": "ww_829198",
+        "name": "Hoyt's Paprika Sweet Smoked",
+        "brand": "Hoyt's",
+        "price": 5.8,
+        "unitPrice": "$0.41 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/829198",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/829198.jpg"
+      },
+      {
+        "id": "ww_580620",
+        "name": "MasterFoods Smoked Paprika",
+        "brand": "MasterFoods",
+        "price": 3.5,
+        "unitPrice": "$1.00 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/580620",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/580620.jpg"
+      },
+      {
+        "id": "ww_6020089",
+        "name": "MasterFoods Paprika Ground",
+        "brand": "MasterFoods",
+        "price": 6.5,
+        "unitPrice": "$0.62 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/6020089",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/6020089.jpg"
+      },
+      {
+        "id": "ww_94614",
+        "name": "Hoyt's Paprika Hot",
+        "brand": "Hoyt's",
+        "price": 1.75,
+        "unitPrice": "$0.35 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/94614",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/094614.jpg"
+      },
+      {
+        "id": "ww_1115614495",
+        "name": "Rug Culture Scion Viso Paprika Rug",
+        "brand": "Rug Culture",
+        "price": 699,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1115614495",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1115614495.jpg"
+      },
+      {
+        "id": "ww_222143",
+        "name": "La Chinata Smoked Paprika Powder Sweet",
+        "brand": "La Chinata",
+        "price": 11.5,
+        "unitPrice": "$1.64 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/222143",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/222143.jpg"
+      },
+      {
+        "id": "ww_1095929597",
+        "name": "Crosley Lancaster Turntable With Bluetooth - Paprika",
+        "brand": "Crosley",
+        "price": 399.95,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1095929597",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1095929597.jpg"
+      },
+      {
+        "id": "ww_1126470405",
+        "name": "Loose Crate Paprika Chips Pet Toy",
+        "brand": "",
+        "price": 2,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1126470405",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1126470405.jpg"
+      },
+      {
+        "id": "ww_1101994497",
+        "name": "Crosley Lancaster Turntable with Bluetooth (in) - Paprika",
+        "brand": "Crosley",
+        "price": 329,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1101994497",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1101994497.jpg"
+      },
+      {
+        "id": "ww_1118975025",
+        "name": "Tourelles Paprika European Pillowcase by Linen House",
+        "brand": "Linen House",
+        "price": 29.95,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1118975025",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1118975025.jpg"
+      },
+      {
+        "id": "ww_1112462527",
+        "name": "Maison by Rapee SIAN Paprika Cushion 45CM",
+        "brand": "Maison by Rapee",
+        "price": 53.96,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1112462527",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1112462527.jpg"
+      },
+      {
+        "id": "ww_1107650217",
+        "name": "Paprika Bridge Double Deck Playing Card Game (PIA2387)",
+        "brand": "",
+        "price": 50.99,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1107650217",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1107650217.jpg"
+      },
+      {
+        "id": "ww_1126219741",
+        "name": "Crosley Lancaster Turntable With Bluetooth Paprika CR42D-PA",
+        "brand": "Crosley",
+        "price": 458.99,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1126219741",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1126219741.jpg"
+      },
+      {
+        "id": "ww_1136818144",
+        "name": "Planet Organic Organic Shaker Paprika 50g 50g",
+        "brand": "Planet Organic",
+        "price": 39.36,
+        "unitPrice": "$7.87 / 10G",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1136818144",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1136818144.jpg"
+      },
+      {
+        "id": "ww_1109783925",
+        "name": "Competition Grade 9ft STRACHAN 6811 Spillguard Treatment Cloth (Paprika)",
+        "brand": "",
+        "price": 769.95,
+        "unitPrice": "",
+        "available": true,
+        "url": "https://www.woolworths.com.au/shop/productdetails/1109783925",
+        "imageUrl": "https://cdn0.woolworths.media/content/wowproductimages/medium/1109783925.jpg"
+      }
+    ],
+    "coles": [
+      {
+        "id": "coles_8982961",
+        "name": "Ground Paprika",
+        "brand": "Coles",
+        "price": 2.15,
+        "unitPrice": "$0.55 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8982961",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8982961.jpg"
+      },
+      {
+        "id": "coles_8984210",
+        "name": "Smoked Paprika",
+        "brand": "Coles",
+        "price": 3,
+        "unitPrice": "$0.77 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8984210",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8984210.jpg"
+      },
+      {
+        "id": "coles_286956",
+        "name": "Hungarian Sweet Paprika",
+        "brand": "Hoyts",
+        "price": 2.85,
+        "unitPrice": "$0.29 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/286956",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/2/286956.jpg"
+      },
+      {
+        "id": "coles_9755739",
+        "name": "Smoked Paprika",
+        "brand": "MasterFoods",
+        "price": 3.5,
+        "unitPrice": "$1.00 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/9755739",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/9/9755739.jpg"
+      },
+      {
+        "id": "coles_5269900",
+        "name": "Sweet Paprika",
+        "brand": "Hoyts",
+        "price": 4.6,
+        "unitPrice": "$0.24 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/5269900",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/5/5269900.jpg"
+      },
+      {
+        "id": "coles_1343749",
+        "name": "Smoked Paprika",
+        "brand": "Hoyts",
+        "price": 3.6,
+        "unitPrice": "$0.72 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1343749",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1343749.jpg"
+      },
+      {
+        "id": "coles_1058094",
+        "name": "H&s Paprika Ground Jar",
+        "brand": "Masterfoods",
+        "price": 6.8,
+        "unitPrice": "$0.65 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1058094",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1058094.jpg"
+      },
+      {
+        "id": "coles_1058083",
+        "name": "H&s Paprika Ground Jar",
+        "brand": "Masterfoods",
+        "price": 2.9,
+        "unitPrice": "$0.88 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/1058083",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/1/1058083.jpg"
+      },
+      {
+        "id": "coles_8984231",
+        "name": "Ginger Ground",
+        "brand": "Coles",
+        "price": 2.2,
+        "unitPrice": "$0.61 per 10g",
+        "available": true,
+        "url": "https://www.coles.com.au/product/8984231",
+        "imageUrl": "https://shop.coles.com.au/wcsstore/Coles-CAS/images/8/8984231.jpg"
+      }
+    ]
+  },
+  "totalProducts": 29
+}

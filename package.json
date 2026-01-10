@@ -1,0 +1,22 @@
+{
+  "name": "grocery-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes grocery prices from Coles and Woolworths",
+  "type": "module",
+  "scripts": {
+    "scrape:all": "tsx src/scrape-all.ts",
+    "scrape:single": "tsx src/scrape-single.ts",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "playwright": "^1.49.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^2.1.0"
+  }
+}
