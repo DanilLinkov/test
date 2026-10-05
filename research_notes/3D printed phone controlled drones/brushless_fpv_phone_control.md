@@ -5,7 +5,7 @@ Research date: 2026-10-05. Popularity numbers for Printables/MakerWorld models w
 ## 1. Which well-regarded printable brushless frames exist (TPU/PETG whoops, printed 2"–3" cinewhoops, toothpicks, fully printed 3"–5", hybrids)?
 
 ### Takeaway
-There are many printable frames, but most have few documented "makes". The most validated are small (2"–3.5") frames and 4" unibody designs printed in stiff engineering filaments (PC, PC-CF, PETG-CF, PAHT-CF). Whoop frames can be printed, but molded whoop frames cost only $1–5 and are often lighter and stronger, so printing a whoop frame is about customisation, not saving money. The PickleWhoop, a frequently cited "printable" cinewhoop, is actually a carbon frame. Only its TPU accessories are printed.
+There are many printable frames, but most have few documented "makes". The most validated are small (2"–3.5") frames and 4" unibody designs. For 3" and up, designers mostly recommend stiff engineering filaments (PC, PC-CF, PETG-CF, PAHT-CF). Whoop frames can be printed, but molded whoop frames cost only $1–5 and are often lighter and stronger, so printing a whoop frame is about customisation, not saving money. The PickleWhoop, a frequently cited "printable" cinewhoop, is actually a carbon frame. Only its TPU accessories are printed.
 
 ### Cited Findings
 **Whoop-class frames (65–90 mm, 1S/2S, 25.5/26 mm whoop AIO boards)**
@@ -169,7 +169,7 @@ ELRS's phone-facing features (Wi-Fi web UI, Backpack, Wi-Fi/BLE sim joystick, MA
 
 ### Inferences
 - The most practical "phone flies the quad" builds today:
-  1. **ESP-FC on an ESP32 micro** with a phone-browser ESP-NOW transmitter (Ishu1519 pattern). It is brushed or small brushless only, and not Betaflight proper.
+  1. **ESP-FC on an ESP32 micro** with a phone-browser ESP-NOW transmitter (Ishu1519 pattern). ESP-FC supports DShot, but the documented builds are small micros (e.g. Elektor's 50 mm quad), and it is not Betaflight proper.
   2. **A normal Betaflight or INAV FC** with an ESP32 receiver that turns phone joystick packets into iBUS or CRSF (Schwarz, Boyyt357, Mustafa).
   3. **INAV 8+/10 or Betaflight 2025.12+ with MAVLink serial RX**, fed RC_CHANNELS_OVERRIDE from a phone app through a Wi-Fi-to-serial bridge such as DroneBridge.
 
