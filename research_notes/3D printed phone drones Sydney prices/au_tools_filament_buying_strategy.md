@@ -5,7 +5,7 @@ All prices are AUD including GST, observed on **5 Oct 2026** unless a different 
 ## 1. Bambu Lab Australia prices (0.6 mm P2S hotend, PLA Basic, PETG HF, TPU 85A/90A, TPU for AMS, PET-CF, PA6-CF, ASA, AMS HT), shipping thresholds, and cheaper Australian filament sources
 
 ### Takeaway
-After a September 2026 price cut, Bambu's AU store lists PLA Basic at A$28.99 with a spool or A$23.99 as a refill. Multi-buy discounts of 10–32% apply, delivery is A$8, and delivery is free on orders of A$77 or more or five or more spools. JB Hi-Fi sells the same PLA Basic and PETG HF for A$24–29 with Sydney store pickup. The specialty grades cost far more: TPU 85A A$65–69, TPU for AMS A$60.99, PET-CF 0.5 kg A$75.99, PA6-CF 0.5 kg A$85.99 and ASA about A$46–48. A genuine Bambu 0.6 mm hardened-steel H2/P2S hotend costs A$30 in Australia. Elegoo AU (PETG A$19.95–20.99, TPU 95A A$27.99) and DREMC (TPU 85A A$39.95) are clearly cheaper sources for PETG and TPU.
+After a September 2026 price cut, Bambu's AU store lists PLA Basic at A$28.99 with a spool or A$23.99 as a refill. Multi-buy discounts of 10–32% apply, delivery is A$8, and delivery is free on orders of A$77 or more or five or more spools. JB Hi-Fi sells the same PLA Basic and PETG HF for A$24–29. The specialty grades cost far more: TPU 85A A$65–69, TPU for AMS A$60.99, PET-CF 0.5 kg A$75.99, PA6-CF 0.5 kg A$85.99 and ASA about A$46–48. A genuine Bambu 0.6 mm hardened-steel H2/P2S hotend costs A$30 in Australia. Elegoo AU (PETG A$19.95–20.99, TPU 95A A$27.99) and DREMC (TPU 85A A$39.95) are clearly cheaper sources for PETG and TPU.
 
 ### Cited Findings
 
@@ -39,7 +39,7 @@ After a September 2026 price cut, Bambu's AU store lists PLA Basic at A$28.99 wi
 - No AU-store price could be found for the H2/P2S 0.6 mm hotend, TPU for AMS or PET-CF. For reference, the US store lists the standard H2/P2S 0.6 mm hardened-steel hotend at US$20.99 (≈A$30.25) and the high-flow version at US$51.99 (≈A$74.92) — [Bambu US Hotends Bulk Sale (snippet)](https://us.store.bambulab.com/pages/promotions/Hotends-Bulk-Sale); [Shop3DUniverse](https://shop3duniverse.com/products/bambu-lab-hotend-for-h2-p2s).
 
 **JB Hi-Fi (official Bambu stockist, Sydney stores) — observed directly from the store's product data**
-- Bambu PLA Basic with spool **A$29.00**; PLA Basic refill **A$24.00**; PETG HF with spool **A$29.00** (black, white); ABS with spool A$29.00. All showed as available, with no "compare-at" (sale) price — [JB PETG HF black](https://www.jbhifi.com.au/products/bambu-lab-petg-hf-3d-printer-filament-with-spool-black-1kg); [JB PLA Basic refill black](https://www.jbhifi.com.au/products/bambu-lab-pla-basic-3d-printer-filament-refill-black-1kg); [JB PLA Basic spool black](https://www.jbhifi.com.au/products/bambu-lab-pla-basic-3d-printer-filament-with-spool-black-1kg).
+- Bambu PLA Basic with spool **A$29.00**; PLA Basic refill **A$24.00**; PETG HF with spool **A$29.00** (black, white); ABS with spool A$29.00. All showed as available. The two items checked in detail (PETG HF black, PLA Basic refill black) had no "compare-at" (sale) price — [JB PETG HF black](https://www.jbhifi.com.au/products/bambu-lab-petg-hf-3d-printer-filament-with-spool-black-1kg); [JB PLA Basic refill black](https://www.jbhifi.com.au/products/bambu-lab-pla-basic-3d-printer-filament-refill-black-1kg); [JB PLA Basic spool black](https://www.jbhifi.com.au/products/bambu-lab-pla-basic-3d-printer-filament-with-spool-black-1kg).
 - JB also lists the P2S at A$899 and the P2S Combo at A$1,149. No Bambu TPU, PET-CF, PA6-CF, ASA or hotends appeared in JB search results — [JB P2S Combo](https://www.jbhifi.com.au/products/bambu-lab-p2s-combo-3d-printer-enclosed-excludes-filament).
 - Cheaper third-party PETG at JB: 3D META High Speed PETG **A$16.95**; Filaform Naked PETG Matte A$24.20 — [JB 3D META PETG](https://www.jbhifi.com.au/products/3d-meta-high-speed-petg-3d-printing-filament-brown); [JB Filaform PETG](https://www.jbhifi.com.au/products/filaform-naked-petg-matte-3d-printer-filament-1-75mm-1kg-pastel-beige).
 
@@ -74,7 +74,7 @@ After a September 2026 price cut, Bambu's AU store lists PLA Basic at A$28.99 wi
 
 ### Inferences
 - **Hotend for TPU 85A:** the genuine Bambu 0.6 mm hardened-steel H2/P2S hotend at 3D Printer Gear (A$30) costs about the same as the US price converted (US$20.99 ≈ A$30.25). It is the safest buy. DREMC's Trianglelab clone (A$28.95) saves little, has a fixed nozzle and is not genuine. Buy two hotends if you will also print carbon-fibre filaments, so one stays dedicated to TPU, as the earlier report advised.
-- **Everyday PLA and PETG:** JB Hi-Fi is the simplest Sydney source at A$24–29 per roll with store pickup. Bambu's AU store is cheaper only on multi-buys of about four or more rolls, or past the A$77 / five-spool free-shipping line. Elegoo AU is the cheapest per kilogram for PETG (A$19.95–20.99, or about A$14.70/kg in a 10 kg box) and is free over A$70.
+- **Everyday PLA and PETG:** JB Hi-Fi is the simplest Sydney source at A$24–29 per roll. In-store pickup is likely but was not verified. Bambu's AU store is cheaper only on multi-buys of about four or more rolls, or past the A$77 / five-spool free-shipping line. Elegoo AU is the cheapest per kilogram for PETG (A$19.95–20.99, or about A$14.70/kg in a 10 kg box) and is free over A$70.
 - **TPU:** for drone mounts and skids, Elegoo's TPU 72D (A$32.99) or DREMC's TPU 64D/72D (A$33.95) cost about half of Bambu's TPU for AMS (A$60.99). Note that only Bambu's TPU for AMS is documented to feed through the AMS. For soft TPU 85A, DREMC (A$39.95) and Siraya Tech (A$44.07, Amazon) cost 35–45% less than Bambu (A$64.99–69).
 - **AMS HT:** 3D Printer Gear (A$229, in stock) is slightly cheaper than the AU store's apparent A$239. It is optional for this user; a drying box or the printer's bed dryer is a lower-cost route.
 - **Carbon-fibre and ASA:** Bambu PET-CF and PA6-CF are sold in 0.5 kg spools in Australia (A$75.99 and A$85.99 at 3DPG), roughly A$150–170/kg. DREMC's 1 kg PET-CF (A$64.95) is far cheaper per kilogram but has no Bambu datasheet.
@@ -220,7 +220,7 @@ A full beginner kit can be bought locally for about A$100, cheaper in AUD than t
 ## 3. Buying strategy from Sydney in 2026: local stores vs Australian online vs overseas, thresholds, delivery times, GST, lithium-battery shipping, secondhand
 
 ### Takeaway
-Buy batteries and anything urgent in Australia: Sydney click & collect (Jaycar in as little as an hour, JB Hi-Fi, Bunnings) or Australian online stores with free-shipping thresholds. Thresholds include Amazon AU A$59 on eligible items, Elegoo A$70, Bambu A$77 or five spools, and NextFPV A$150. Use AliExpress (GST added at checkout, roughly 7–12 days) only for cheap non-battery parts. LiPos cannot travel loose by air: Australia Post and couriers carry them by road only, and overseas sellers generally cannot air-mail them. DigiKey and Mouser ship free to Australia above about A$60.
+Buy batteries and anything urgent in Australia: Sydney click & collect (Jaycar in as little as an hour, Bunnings) or Australian online stores with free-shipping thresholds. Thresholds include Amazon AU A$59 on eligible items, Elegoo A$70, Bambu A$77 or five spools, and NextFPV A$150. Use AliExpress (GST added at checkout, roughly 7–12 days) only for cheap non-battery parts. LiPos cannot travel loose by air: Australia Post and couriers carry them by road only, and overseas sellers generally cannot air-mail them. DigiKey and Mouser ship free to Australia above about A$60.
 
 ### Cited Findings
 
@@ -282,7 +282,7 @@ Buy batteries and anything urgent in Australia: Sydney click & collect (Jaycar i
 - **LiPos:** buy from Australian hobby stores, ideally Sydney-based such as NextFPV, and choose standard road delivery. Sydney metro orders arrive quickly by road; interstate orders take several days because Express Post (air) is not allowed. Overseas sellers (AliExpress, US stores) effectively cannot air-mail loose LiPos to Australia.
 - **Battery size limits are no obstacle:** 1S whoop packs (≈1–2 Wh) and 6S 1,300 mAh packs (≈29 Wh) are well under the 20 Wh-per-cell and 100 Wh-per-battery limits. The obstacle is the road-only rule, not size.
 - **Suggested buying order for a Sydney beginner:**
-  1. Same day (Jaycar, JB Hi-Fi or Bunnings click & collect): multimeter, Loctite, cables, PLA/PETG.
+  1. Same day (Jaycar or Bunnings click & collect; JB Hi-Fi stores likely but unverified): multimeter, Loctite, cables, PLA/PETG.
   2. Next day to a few days (NextFPV, DREMC, Core): FPV-specific tools, ShortSaver, inserts. Combine orders to pass the free-shipping thresholds.
   3. Amazon AU: generic tools, batched over A$59 or using the first-order free delivery.
   4. AliExpress (1–2+ weeks): bulk fasteners, inserts and spare props.
