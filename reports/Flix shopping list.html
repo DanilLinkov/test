@@ -1,0 +1,279 @@
+<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><style>body{margin:0}[hidden]{display:none!important}</style></head><body>
+<title>Flix Shopping List</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+/* Layout: parts list on the left, a sticky order summary on the right (stacks on phones).
+   Palette: graphite neutrals, prop-tip orange for prices and picks, green for recommended, amber for warnings. */
+:root {
+  --bg: #f2f5f4; --surface: #fbfcfc; --surface-2: #e6ebe9; --fg: #172022; --muted: #55645f; --line: #d0d9d6;
+  --accent: #b93d0b; --accent-soft: #fae4d6; --ok: #17734a; --ok-soft: #ddf1e6; --warn: #855800; --warn-soft: #f9edcb;
+  --font-display: "Barlow Condensed", "Arial Narrow", sans-serif;
+  --font-body: "Source Sans 3", "Segoe UI", system-ui, -apple-system, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  --radius: 6px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0f1416; --surface: #151c1f; --surface-2: #1c2528; --fg: #e1e8e6; --muted: #98a8a2; --line: #2a3537;
+    --accent: #ff8d52; --accent-soft: #3a2116; --ok: #62d29a; --ok-soft: #11301f; --warn: #efbf4f; --warn-soft: #35290c; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0f1416; --surface: #151c1f; --surface-2: #1c2528; --fg: #e1e8e6; --muted: #98a8a2; --line: #2a3537;
+  --accent: #ff8d52; --accent-soft: #3a2116; --ok: #62d29a; --ok-soft: #11301f; --warn: #efbf4f; --warn-soft: #35290c; color-scheme: dark;
+}
+body { background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 1rem; line-height: 1.5; }
+.page { max-width: 1180px; margin: 0 auto; padding-inline: 16px; padding-block: 0 48px; }
+@media (min-width: 720px) { .page { padding-inline: 28px; } }
+a { color: var(--accent); text-underline-offset: 2px; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 3px; }
+.eyebrow, .label { font-family: var(--font-data); font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+header { padding-block: 32px 22px; border-bottom: 2px solid var(--fg); display: grid; gap: 10px; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(2.2rem, 6vw, 3.2rem); line-height: 1; margin: 0; }
+header p { margin: 0; max-width: 70ch; }
+.layout { display: grid; grid-template-columns: minmax(0, 1fr); gap: 28px; padding-top: 22px; }
+@media (min-width: 980px) { .layout { grid-template-columns: minmax(0, 1fr) 340px; } }
+.summary { order: -1; }
+@media (min-width: 980px) { .summary { order: 0; position: sticky; top: calc(env(safe-area-inset-top, 0px) + 16px); align-self: start; } }
+h2 { font-family: var(--font-display); font-weight: 700; font-size: 1.6rem; margin: 26px 0 10px; }
+h2:first-child { margin-top: 0; }
+.parts { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.part { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); min-width: 0; }
+.part-head { padding: 12px 16px 6px; display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; justify-content: space-between; }
+.part-head h3 { margin: 0; font-size: 1.08rem; font-weight: 700; }
+.part-head .qty { font-family: var(--font-data); font-size: .8rem; color: var(--muted); }
+.part .why { padding: 0 16px 8px; margin: 0; color: var(--muted); font-size: .92rem; }
+.opts { list-style: none; margin: 0; padding: 0; }
+.opts li { border-top: 1px solid var(--line); }
+.opts label { display: grid; grid-template-columns: 20px minmax(0, 1fr) auto; gap: 2px 12px; padding: 10px 16px; cursor: pointer; align-items: start; }
+.opts input { margin: 4px 0 0; accent-color: var(--accent); width: 16px; height: 16px; }
+.opts .t { font-weight: 600; line-height: 1.35; }
+.opts .s { grid-column: 2; font-size: .86rem; color: var(--muted); line-height: 1.4; }
+.opts .p { font-family: var(--font-data); font-size: .92rem; white-space: nowrap; grid-row: 1; grid-column: 3; }
+.opts li.on { background: var(--accent-soft); }
+.chip { display: inline-block; font-family: var(--font-data); font-size: .68rem; letter-spacing: .04em; text-transform: uppercase; padding: 1px 6px; border-radius: 4px; margin-left: 6px; vertical-align: 1px; }
+.chip.rec { background: var(--ok-soft); color: var(--ok); }
+.chip.store { background: var(--surface-2); color: var(--fg); margin-left: 0; margin-right: 6px; }
+.warn { margin: 0 16px 12px; padding: 8px 10px; border-radius: 4px; background: var(--warn-soft); color: var(--warn); font-size: .9rem; }
+.panel { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); padding: 16px; display: grid; gap: 12px; }
+.total { font-family: var(--font-data); font-size: 1.9rem; color: var(--accent); font-variant-numeric: tabular-nums; line-height: 1.1; }
+.split { display: grid; grid-template-columns: 1fr auto; gap: 4px 10px; font-size: .92rem; font-variant-numeric: tabular-nums; }
+.split .n { font-family: var(--font-data); text-align: right; }
+.orders { display: grid; gap: 10px; }
+.order { border-top: 1px solid var(--line); padding-top: 10px; }
+.order .oh { display: flex; justify-content: space-between; gap: 10px; font-weight: 700; }
+.order .oh .n { font-family: var(--font-data); font-weight: 500; }
+.order .ow { font-size: .82rem; color: var(--muted); }
+.order ul { margin: 4px 0 0; padding-left: 1.1em; font-size: .88rem; }
+.toggle { display: flex; gap: 8px; align-items: center; font-size: .9rem; }
+.toggle input { accent-color: var(--accent); width: 16px; height: 16px; }
+.btns { display: flex; flex-wrap: wrap; gap: 8px; }
+button { font: inherit; font-size: .88rem; cursor: pointer; border: 1px solid var(--line); background: var(--surface); color: var(--fg); border-radius: 999px; padding: 5px 12px; }
+button:hover { border-color: var(--fg); }
+.notes { border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); padding: 6px 18px 10px; }
+.notes li { margin: .45em 0; }
+.foot { margin-top: 28px; color: var(--muted); font-size: .88rem; max-width: 80ch; }
+@media (max-width: 520px) {
+  .opts label { grid-template-columns: 20px minmax(0, 1fr); }
+  .opts .p { grid-row: auto; grid-column: 2; }
+}
+</style>
+
+<div class="page">
+  <header>
+    <span class="eyebrow">Flix drone · Sydney NSW · prices checked 8–9 Oct 2026</span>
+    <h1>Flix shopping list</h1>
+    <p>Pick a store for each part. The total and the per-store orders update as you go, and your picks are remembered in this browser. The green "pick" tags are my recommendation for a first build.</p>
+  </header>
+
+  <div class="layout">
+    <main class="parts" id="parts"></main>
+
+    <aside class="summary" aria-label="Order summary">
+      <div class="panel">
+        <div>
+          <span class="label">Everything selected</span>
+          <div class="total" id="grand">A$0</div>
+        </div>
+        <div class="split" id="split"></div>
+        <label class="toggle" for="pickup"><input type="checkbox" id="pickup"> Collect from Phaser FPV in Somersby (no Phaser shipping)</label>
+        <div class="btns"><button type="button" id="reset">Reset to my picks</button><button type="button" id="cheap">Cheapest options</button></div>
+        <div class="orders" id="orders"></div>
+      </div>
+    </aside>
+  </div>
+
+  <h2>Things to know before you order</h2>
+  <ul class="notes">
+    <li><strong>Batteries differ from the Flix README.</strong> Its battery size (952540, 1000 mAh, MX2.0 plug) is only sold on AliExpress, and LiPo delivery to Australia couldn't be confirmed. Phaser's 850 mAh packs are in stock locally. You solder an A30 lead to the drone instead of the MX2.0 one, and pad the pack into the frame's battery cradle. Expect about 15% less flight time. Flix's own first build used an 850 mAh pack.</li>
+    <li><strong>Match the battery, lead and charger.</strong> The A30 lead and the WhoopStor or 6-port charger go with the Phaser packs. AliExpress MX2.0 packs need the MX2.0 lead, a charger set to 4.20 V, and a polarity check with a multimeter, because MX2.0 wiring isn't standardised.</li>
+    <li><strong>Transistors must be genuine UMW 100N03A.</strong> The README warns other makers' versions might not work. LCSC and DigiKey sell genuine ones; AliExpress "UMW" listings can't be verified.</li>
+    <li><strong>The camera from earlier (BetaFPV M01) is discontinued.</strong> The EWRF camera in the rcdrone set runs on 2.5–5.5 V, so it wires straight to the battery and you only need one 5 V converter. Set its channel inside 5,725–5,875 MHz and keep the stock antenna, because Australia's limit is 25 mW EIRP.</li>
+    <li><strong>The video receiver is Android-only.</strong> It works as a webcam on Windows 10 and Linux, so your laptop code can read it; Mac support isn't confirmed. No Australian store has one in stock right now.</li>
+    <li><strong>The height sensor is for later.</strong> Flix doesn't read it yet, so a week's wait for the small Pololu board doesn't hold up the build.</li>
+    <li><strong>Same-day backup in Sydney:</strong> Jaycar (York St and other stores) has the resistors, M3 screws, thin wire, a 5 V converter and multimeters if something is missing on build day.</li>
+    <li><strong>Not included:</strong> a multimeter (Flix lists it as a required tool) and filament, which you already have.</li>
+  </ul>
+  <p class="foot">AliExpress prices include the 10% GST it adds at checkout; its shipping cost couldn't be checked, so it's counted as A$0. LCSC shipping is an estimate from 2024 data. US-dollar prices use 1 USD = 1.4402 AUD. Prices and stock change often, so check each store before buying.</p>
+</div>
+
+<script>
+(() => {
+  const STORES = {
+    phaser: { name: 'Phaser FPV', where: 'Somersby NSW, about 1 hour north. Walk-in pickup, or road delivery (2–5 extra days with batteries).', ship: 8.45 },
+    core: { name: 'Core Electronics', where: 'Newcastle NSW. Express, usually next business day.', ship: 6.25 },
+    ali: { name: 'AliExpress', where: 'China, about 10–20 days. Shipping cost not verified.', ship: 0 },
+    lcsc: { name: 'LCSC', where: 'Shenzhen. Slow line about A$3 (2024 estimate), DHL about A$28.', ship: 3.18 },
+    digikey: { name: 'DigiKey AU', where: 'About 4 days. A$24 shipping under A$60.', ship: 24 },
+    ebay: { name: 'eBay AU sellers', where: 'Australian sellers, free delivery.', ship: 0 },
+    rcdrone: { name: 'rcdrone.top', where: 'China, free shipping, 9–15 days.', ship: 0 },
+    betafpv: { name: 'BetaFPV', where: 'China, 12–30 days. Price includes US$5 shipping.', ship: 0 },
+    buzz: { name: 'Buzz FPV', where: 'Perth. Express by air about A$12 (no batteries).', ship: 12.25 },
+    jaycar: { name: 'Jaycar', where: 'Sydney stores, click and collect in about an hour.', ship: 0 }
+  };
+  const PARTS = [
+    { sec: 'The drone', id: 'esp32', name: 'ESP32 Mini board', qty: '×1', why: "The drone's computer. The printed holder is shaped for this board.", opts: [
+      { s: 'ebay', t: 'Wemos Mini D1 ESP32 (seller auscomtech, QLD, 99.8% of 7,001 ratings)', p: 15.80, n: 'Free delivery, ships from Australia', u: 'https://www.ebay.com.au/itm/275998572656', rec: true },
+      { s: 'ali', t: 'MH-ET LIVE D1 mini ESP32', p: 13.96, n: 'AU$12.69 + GST, no reviews yet', u: 'https://www.aliexpress.com/item/1005011854881192.html' },
+      { s: 'ali', t: 'XCW D1 Mini LIVE ESP32', p: 8.68, n: 'AU$7.89 + GST, 3 sold', u: 'https://www.aliexpress.com/item/1005012595049946.html' } ] },
+    { id: 'imu', name: 'GY-91 motion sensor', qty: '×1', why: "Measures tilt and rotation. The frame's screw holes are made for this board.", opts: [
+      { s: 'ali', t: 'GY-91 MPU9250 + BMP280', p: 7.21, n: 'AU$6.55 + GST, 34 sold, 5★', u: 'https://www.aliexpress.com/item/1005012661642808.html', rec: true },
+      { s: 'ebay', t: 'GY-91 (seller in Sydney)', p: 25.06, n: 'Free delivery, faster', u: 'https://www.ebay.com.au/itm/305516501101' } ] },
+    { id: 'fets', name: 'UMW 100N03A transistors', qty: '×4 (sold in 5s)', why: 'Switch the motors on and off. Must be genuine UMW.', opts: [
+      { s: 'lcsc', t: 'UMW 100N03A, pack of 5 (C668200)', p: 1.44, n: 'US$1.00, genuine, 66,210 in stock', u: 'https://www.lcsc.com/product-detail/C668200.html', rec: true },
+      { s: 'digikey', t: 'UMW 100N03A × 4', p: 7.00, n: 'A$1.75 each, genuine, fastest', u: 'https://www.digikey.com.au/en/products/detail/umw/100N03A/16705977' },
+      { s: 'ali', t: '"UMW 100N03A" 10-pack', p: 5.91, n: "AU$5.37 + GST. Can't verify they're genuine", u: 'https://www.aliexpress.com/item/1005012911526241.html' } ] },
+    { id: 'res', name: '10 kΩ resistors', qty: '×6', why: 'Pull-down resistors for the transistors, plus battery-voltage measuring.', opts: [
+      { s: 'core', t: '10 kΩ 0.25 W × 6', p: 0.60, n: 'A$0.10 each', u: 'https://core-electronics.com.au/resistor-10k-ohm-025-watt-pth.html', rec: true },
+      { s: 'jaycar', t: '10 kΩ 0.5 W, pack of 8 (RR0596)', p: 0.85, n: 'Same-day pickup, all nearby Sydney stores', u: 'https://www.jaycar.com.au/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596' } ] },
+    { id: 'boost', name: '5 V boost converter', qty: '×1', why: 'Gives the ESP32 a steady 5 V so it does not reset when the motors spin up.', opts: [
+      { s: 'core', t: 'Pololu U3V9F5 (0.4 g)', p: 5.80, n: 'The tiny one Flix builders use', u: 'https://core-electronics.com.au/pololu-5v-step-up-dc-dc-boost-converter-voltage-regulator-u3v9f5.html', rec: true },
+      { s: 'jaycar', t: 'Duinotech XC4512 5 V converter', p: 4.95, n: 'Same day, but bulkier (34 × 16 mm, USB socket)', u: 'https://www.jaycar.com.au/duinotech-arduino-compatible-5v-dc-to-dc-converter-module/p/XC4512' } ] },
+    { id: 'm3', name: 'M3 × 5 mm screws', qty: '×2', why: 'Hold the motion sensor to the frame.', opts: [
+      { s: 'core', t: 'DFRobot M3 × 5, 10 sets', p: 1.27, n: '', u: 'https://core-electronics.com.au/10-sets-m3-5-mounting-screws.html', rec: true },
+      { s: 'jaycar', t: 'M3 × 5, pack of 25 (HP0440)', p: 2.30, n: 'Alexandria and other stores; York St has M3 × 6', u: 'https://www.jaycar.com.au/m3-x-5mm-black-equipment-screws-pack-of-25/p/HP0440' } ] },
+    { id: 'm14', name: 'M1.4 × 5 mm screws', qty: '×4', why: 'Hold the ESP32 holder onto the frame.', opts: [
+      { s: 'ebay', t: 'M1.4 × 5 micro screws, 5 pcs (Port Macquarie NSW)', p: 2.85, n: 'Free delivery', u: 'https://www.ebay.com.au/itm/363001545559', rec: true },
+      { s: 'ali', t: 'M1.4 pan-head screws (pick the 5 mm variant)', p: 1.75, n: 'From AU$1.59 + GST', u: 'https://www.aliexpress.com/item/32946954901.html' } ] },
+    { id: 'wire', name: 'Thin silicone wire', qty: 'red + black', why: 'For wiring the motors, transistors and boards. Flix suggests 28 AWG.', opts: [
+      { s: 'core', t: '26 AWG silicone, 2 m red + 2 m black', p: 4.55, n: 'Slightly thicker than 28 AWG, which is fine', u: 'https://core-electronics.com.au/silicone-cover-stranded-core-wire-2m-26awg-red.html', rec: true },
+      { s: 'ebay', t: '28 AWG silicone, 1 m red + 1 m black (VIC)', p: 9.38, n: 'Exact size Flix suggests', u: 'https://www.ebay.com.au/itm/227532757256' },
+      { s: 'jaycar', t: '30 AWG silicone, 5 colours × 10 m (WH3026)', p: 15.95, n: 'Same-day pickup', u: 'https://www.jaycar.com.au/30-gauge-silcon-hookup-wire-5-colours-10m-roll/p/WH3026' } ] },
+    { id: 'tape', name: 'Double-sided foam tape', qty: 'a few pads', why: 'Sticks the ESP32 to its holder and the transistors to the arms.', opts: [
+      { s: 'core', t: 'EVA foam pads 23 × 12 × 1 mm × 4', p: 2.20, n: '', u: 'https://core-electronics.com.au/pad-adhesive-2-side-eva-foam-23x12x1mm.html', rec: true },
+      { s: null, t: 'Use tape you already have', p: 0, n: '' } ] },
+    { id: 'motors', name: 'Motors: 8520, 3.7 V, 1 mm shaft', qty: '2 CW + 2 CCW', why: 'Clockwise motors have red/blue wires, counter-clockwise have white/black, matching Flix.', opts: [
+      { s: 'phaser', t: 'Micro Motor Warehouse CL-0820-15 × 4', p: 27.80, n: 'A$6.95 each, in stock. Not the -9T, -11T or -18 versions', u: 'https://phaserfpv.com.au/products/micro-motor-warehouse-cl-0820-15-coreless-brushed-motor', rec: true },
+      { s: 'ali', t: '4 × 8520 2CW+2CCW, 3.7 V, 1 mm shaft', p: 12.99, n: 'AU$11.81 + GST, specs less certain', u: 'https://www.aliexpress.com/item/1005012596273761.html' } ] },
+    { id: 'props', name: 'Props: 65 mm, 1 mm hole', qty: '2 sets', why: 'Each pack has 4 CW + 4 CCW. CW props go on the red/blue motors.', opts: [
+      { s: 'phaser', t: 'Gemfan 65 mm 2-blade, 2 packs', p: 2.90, n: 'A$1.45 each, in stock', u: 'https://phaserfpv.com.au/products/gemfan-65mm-2-blade-propellers', rec: true },
+      { s: 'ali', t: 'Gemfan 65 mm, 4 pairs', p: 5.27, n: 'AU$4.79 + GST', u: 'https://www.aliexpress.com/item/1005003179700194.html' } ] },
+    { id: 'batt', name: 'Batteries: 1S LiPo', qty: '×3', why: 'About 15 A is needed; both options supply that.', opts: [
+      { s: 'phaser', t: 'GNB 850 mAh 60C, A30 plug × 3', p: 32.85, n: 'A$10.95 each, 6 in stock, road shipping or pickup', u: 'https://phaserfpv.com.au/products/gaoneng-gnb-lihv-1s-38v-850mah-60c-a30-cabled-lipo-battery-long-range', rec: true, kind: 'a30' },
+      { s: 'ali', t: '952540 1000 mAh 25C, MX2.0 plug × 3 (README size)', p: 12.87, n: "AU$3.90 each + GST. LiPo delivery to Australia not confirmed", u: 'https://www.aliexpress.com/item/1005007322229008.html', kind: 'mx' } ] },
+    { id: 'lead', name: 'Battery lead for the drone', qty: '×1', why: 'Soldered to the drone; must match the battery plug.', opts: [
+      { s: 'phaser', t: 'A30 female with cable (A30-F8080)', p: 1.74, n: 'For the GNB packs', u: 'https://phaserfpv.com.au/products/gaoneng-a30-connector-adapter-for-fpv-whoops-quads-lipo-battery', rec: true, kind: 'a30' },
+      { s: 'ali', t: 'MX2.0 2-pin male/female leads', p: 2.99, n: 'For 952540 packs. AU$2.72 + GST', u: 'https://www.aliexpress.com/item/1005004894470727.html', kind: 'mx' } ] },
+    { id: 'charger', name: 'Battery charger', qty: '×1', why: 'Must match the battery plug and voltage.', opts: [
+      { s: 'phaser', t: 'ViFly WhoopStor V3', p: 54.99, n: 'A30 ports, standard and high-voltage modes, storage mode. Runs from a USB-C charger', u: 'https://phaserfpv.com.au/products/vifly-whoopstor-1s-lipo-charger-v3', rec: true, kind: 'a30' },
+      { s: 'phaser', t: 'BetaFPV 6-port V2 + 3 A30 adapters', p: 26.29, n: 'Budget. Includes power adapter. High-voltage 4.35 V only, which suits GNB packs only', u: 'https://phaserfpv.com.au/products/betafpv-6-ports-1s-battery-charger-adapter', kind: 'a30' },
+      { s: 'buzz', t: 'HGLRC Thor 1S V2 (MX2.0 and A30)', p: 42.95, n: 'Handles both battery types, 4.20 or 4.35 V. Needs a 12 V USB-C PD supply', u: 'https://buzzfpv.com.au/products/hglrc-thor-1s-charger-v2-racing-model-fpv-drone-lithium-battery-6-way-charging-board-charger', kind: 'both' } ] },
+    { sec: 'Camera and height sensor (can wait until it flies)', id: 'cam', name: 'Camera + video receiver', qty: 'set', why: 'The camera sends live video at 25 mW; the receiver plugs into your Android phone or laptop.', opts: [
+      { s: 'rcdrone', t: 'EWRF TX04 25 mW camera + UVC OTG receiver set', p: 98.41, n: 'US$68.33, free shipping, in stock. Camera 4 g, 2.5–5.5 V', u: 'https://rcdrone.top/products/ewrf-5-8g-48ch', rec: true },
+      { s: 'betafpv', t: 'BetaFPV Cetus Lite camera only (receiver separately)', p: 37.43, n: 'Cheaper, but no Australian store has a receiver in stock right now', u: 'https://betafpv.com/products/cetus-lite-camera-and-vtx-module' },
+      { s: null, t: 'Skip for now', p: 0, n: '' } ] },
+    { id: 'tof', name: 'Height sensor (VL53L1X)', qty: '×1', why: 'Measures distance to the floor for height hold. Mounts under an arm.', opts: [
+      { s: 'core', t: 'Pololu VL53L1X carrier (13 × 18 mm, 0.5 g)', p: 38.40, n: 'Smallest and lightest. Dispatches 13–16 Oct', u: 'https://core-electronics.com.au/vl53l1x-time-of-flight-distance-sensor-carrier-with-voltage-regulator-400cm-max.html', rec: true },
+      { s: 'core', t: 'PiicoDev VL53L1X (25.4 mm square)', p: 20.75, n: 'Cheapest local, in stock, bigger board', u: 'https://core-electronics.com.au/piicodev-laser-distance-sensor-vl53l1x.html' },
+      { s: 'ali', t: 'Generic VL53L1X module', p: 5.29, n: 'AU$4.81 + GST, size not stated', u: 'https://www.aliexpress.com/item/1005008281495691.html' },
+      { s: null, t: 'Skip for now', p: 0, n: '' } ] }
+  ];
+
+  const money = n => 'A$' + n.toFixed(2);
+  const KEY = 'flix-shop-v1';
+  const load = () => { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch (e) { return null; } };
+  const save = v => { try { localStorage.setItem(KEY, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } };
+  const recPick = () => Object.fromEntries(PARTS.map(p => [p.id, Math.max(0, p.opts.findIndex(o => o.rec))]));
+  const cheapPick = () => Object.fromEntries(PARTS.map(p => {
+    const real = p.opts.map((o, i) => [o, i]).filter(([o]) => o.s !== null || p.opts.every(x => x.s === null));
+    let best = real[0][1];
+    real.forEach(([o, i]) => { if (o.p < p.opts[best].p) best = i; });
+    return [p.id, best];
+  }).concat([['batt', 0], ['lead', 0], ['charger', 1], ['cam', 0]]));
+  let state = Object.assign({ picks: recPick(), pickup: false }, load() || {});
+  state.picks = Object.assign(recPick(), state.picks || {});
+
+  const partsEl = document.getElementById('parts');
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  PARTS.forEach(p => {
+    if (p.sec) { const h = document.createElement('h2'); h.textContent = p.sec; partsEl.appendChild(h); }
+    const box = document.createElement('section');
+    box.className = 'part';
+    box.innerHTML = `<div class="part-head"><h3>${esc(p.name)}</h3><span class="qty">${esc(p.qty)}</span></div><p class="why">${esc(p.why)}</p>` +
+      `<ul class="opts">${p.opts.map((o, i) => {
+        const id = `${p.id}-${i}`;
+        const store = o.s ? `<span class="chip store">${esc(STORES[o.s].name)}</span>` : '';
+        const link = o.u ? ` · <a href="${o.u}" target="_blank" rel="noopener">view</a>` : '';
+        return `<li><label for="${id}"><input type="radio" name="${p.id}" id="${id}" value="${i}"><span class="t">${esc(o.t)}${o.rec ? '<span class="chip rec">pick</span>' : ''}</span><span class="p">${o.s ? money(o.p) : '—'}</span><span class="s">${store}${esc(o.n)}${link}</span></label></li>`;
+      }).join('')}</ul><div class="warn" hidden></div>`;
+    partsEl.appendChild(box);
+    box.querySelectorAll('input').forEach(inp => inp.addEventListener('change', () => { state.picks[p.id] = +inp.value; save(state); render(); }));
+  });
+
+  const pickup = document.getElementById('pickup');
+  pickup.addEventListener('change', () => { state.pickup = pickup.checked; save(state); render(); });
+  document.getElementById('reset').addEventListener('click', () => { state.picks = recPick(); save(state); render(); });
+  document.getElementById('cheap').addEventListener('click', () => { state.picks = cheapPick(); save(state); render(); });
+
+  function phaserShip(sub) {
+    if (state.pickup) return 0;
+    const off = sub > 250 ? 12 : sub > 150 ? 8 : sub > 99 ? 5 : 0;
+    return Math.max(0, STORES.phaser.ship - off);
+  }
+
+  function render() {
+    pickup.checked = !!state.pickup;
+    const orders = {};
+    let droneSum = 0, laterSum = 0, later = false;
+    PARTS.forEach(p => {
+      if (p.id === 'cam') later = true;
+      const o = p.opts[state.picks[p.id]] || p.opts[0];
+      const box = document.getElementById(`${p.id}-${state.picks[p.id]}`);
+      if (box) box.checked = true;
+      document.querySelectorAll(`input[name="${p.id}"]`).forEach(inp => inp.closest('li').classList.toggle('on', inp.checked));
+      if (!o.s) return;
+      (orders[o.s] = orders[o.s] || { items: [], sub: 0, later: true }).items.push(`${p.name}: ${o.t}`);
+      orders[o.s].sub += o.p;
+      if (!later) orders[o.s].later = false;
+      if (later) laterSum += o.p; else droneSum += o.p;
+    });
+    // compatibility warnings
+    const kind = id => (PARTS.find(p => p.id === id).opts[state.picks[id]] || {}).kind;
+    const b = kind('batt'), l = kind('lead'), c = kind('charger');
+    const warn = (id, msg) => { const w = document.querySelector(`#${id}-0`).closest('.part').querySelector('.warn'); w.hidden = !msg; w.textContent = msg || ''; };
+    warn('lead', b && l && b !== l ? (b === 'mx' ? 'Your batteries have MX2.0 plugs, so pick the MX2.0 lead.' : 'Your batteries have A30 plugs, so pick the A30 lead.') : '');
+    warn('charger', b === 'mx' && c === 'a30' ? 'These chargers have no MX2.0 ports, and the 6-port V2 would overcharge standard LiPo packs. Pick the Thor V2.' : '');
+
+    let shipTotal = 0;
+    const ordEl = document.getElementById('orders');
+    ordEl.innerHTML = Object.entries(orders).sort((a, b) => b[1].sub - a[1].sub).map(([k, v]) => {
+      const st = STORES[k];
+      const ship = k === 'phaser' ? phaserShip(v.sub) : (k === 'digikey' && v.sub >= 60 ? 0 : st.ship);
+      shipTotal += ship;
+      const shipTxt = ship ? ` + ${money(ship)} shipping` : (k === 'phaser' && state.pickup ? ' · pickup' : '');
+      return `<div class="order"><div class="oh"><span>${esc(st.name)}</span><span class="n">${money(v.sub + ship)}</span></div><div class="ow">${money(v.sub)} items${shipTxt}. ${esc(st.where)}</div><ul>${v.items.map(i => `<li>${esc(i)}</li>`).join('')}</ul></div>`;
+    }).join('');
+    const grand = droneSum + laterSum + shipTotal;
+    document.getElementById('grand').textContent = money(grand);
+    document.getElementById('split').innerHTML =
+      `<span>Drone parts</span><span class="n">${money(droneSum)}</span>` +
+      `<span>Camera and sensor</span><span class="n">${money(laterSum)}</span>` +
+      `<span>Shipping</span><span class="n">${money(shipTotal)}</span>` +
+      `<span>Stores to order from</span><span class="n">${Object.keys(orders).length}</span>`;
+  }
+  render();
+})();
+</script>
+</body></html>
