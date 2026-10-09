@@ -1,5 +1,4 @@
-<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><style>body{margin:0}[hidden]{display:none!important}</style></head><body>
-<title>Flix Shopping List</title>
+<!doctype html><html lang="en-AU"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><style>body{margin:0}[hidden]{display:none!important}</style></head><body><title>Flix Shopping List</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Sans+3:wght@400;600;700&display=swap">
@@ -107,8 +106,8 @@ button:hover { border-color: var(--fg); }
 
   <h2>Things to know before you order</h2>
   <ul class="notes">
-    <li><strong>Batteries differ from the Flix README.</strong> Its battery size (952540, 1000 mAh, MX2.0 plug) is only sold on AliExpress, and LiPo delivery to Australia couldn't be confirmed. Phaser's 850 mAh packs are in stock locally. You solder an A30 lead to the drone instead of the MX2.0 one, and pad the pack into the frame's battery cradle. Expect about 15% less flight time. Flix's own first build used an 850 mAh pack.</li>
-    <li><strong>Match the battery, lead and charger.</strong> The A30 lead and the WhoopStor or 6-port charger go with the Phaser packs. AliExpress MX2.0 packs need the MX2.0 lead, a charger set to 4.20 V, and a polarity check with a multimeter, because MX2.0 wiring isn't standardised.</li>
+    <li><strong>The batteries are the exact pack Flix was designed for.</strong> The README's LW 952540 (1000 mAh, MX2.0 plug) is only sold on AliExpress, and it does ship to Sydney. The seller picked here quoted a tracked battery service ("YFH Special Standard"): AU$7.91 + GST, 15–22 days (checked 9 Oct). Skip listings that only offer "Seller's Shipping Method", which quoted 60 days with no tracking. If you'd rather have batteries this week, Phaser's 850 mAh GNB packs work with the A30 lead and an A30 charger. They need padding in the frame's battery cradle and give about 15% less flight time.</li>
+    <li><strong>Match the battery, lead and charger.</strong> MX2.0 packs need the MX2.0 lead and a 4.20 V charger: the set's own USB charger (check a full pack reads about 4.20 V the first time), or the Thor V2 on its 4.20 V setting. Never put them on the 6-port V2, which charges to 4.35 V. MX2.0 wiring isn't standardised, so check the lead's polarity against a pack with a multimeter before soldering. Phaser's GNB packs go with the A30 lead and the WhoopStor or 6-port charger.</li>
     <li><strong>Transistors must be genuine UMW 100N03A.</strong> The README warns other makers' versions might not work. LCSC and DigiKey sell genuine ones; AliExpress "UMW" listings can't be verified.</li>
     <li><strong>The camera from earlier (BetaFPV M01) is discontinued.</strong> The EWRF camera in the rcdrone set runs on 2.5–5.5 V, so it wires straight to the battery and you only need one 5 V converter. Set its channel inside 5,725–5,875 MHz and keep the stock antenna, because Australia's limit is 25 mW EIRP.</li>
     <li><strong>The video receiver is Android-only.</strong> It works as a webcam on Windows 10 and Linux, so your laptop code can read it; Mac support isn't confirmed. No Australian store has one in stock right now.</li>
@@ -116,7 +115,7 @@ button:hover { border-color: var(--fg); }
     <li><strong>Same-day backup in Sydney:</strong> Jaycar (York St and other stores) has the resistors, M3 screws, thin wire, a 5 V converter and multimeters if something is missing on build day.</li>
     <li><strong>Not included:</strong> a multimeter (Flix lists it as a required tool) and filament, which you already have.</li>
   </ul>
-  <p class="foot">AliExpress prices include the 10% GST it adds at checkout; its shipping cost couldn't be checked, so it's counted as A$0. LCSC shipping is an estimate from 2024 data. US-dollar prices use 1 USD = 1.4402 AUD. Prices and stock change often, so check each store before buying.</p>
+  <p class="foot">AliExpress prices include the 10% GST it adds at checkout. Each AliExpress seller charges its own shipping. It's included in the price for the GY-91 and the batteries, which were checked on 9 Oct; the other AliExpress items may add a few dollars each. LCSC shipping is an estimate from 2024 data. US-dollar prices use 1 USD = 1.4402 AUD. Prices and stock change often, so check each store before buying.</p>
 </div>
 
 <script>
@@ -124,7 +123,7 @@ button:hover { border-color: var(--fg); }
   const STORES = {
     phaser: { name: 'Phaser FPV', where: 'Somersby NSW, about 1 hour north. Walk-in pickup, or road delivery (2–5 extra days with batteries).', ship: 8.45 },
     core: { name: 'Core Electronics', where: 'Newcastle NSW. Express, usually next business day.', ship: 6.25 },
-    ali: { name: 'AliExpress', where: 'China, about 10–20 days. Shipping cost not verified.', ship: 0 },
+    ali: { name: 'AliExpress', where: 'China, 1–3 weeks. Shipping is charged per seller and included where it was checked.', ship: 0 },
     lcsc: { name: 'LCSC', where: 'Shenzhen. Slow line about A$3 (2024 estimate), DHL about A$28.', ship: 3.18 },
     digikey: { name: 'DigiKey AU', where: 'About 4 days. A$24 shipping under A$60.', ship: 24 },
     ebay: { name: 'eBay AU sellers', where: 'Australian sellers, free delivery.', ship: 0 },
@@ -139,7 +138,7 @@ button:hover { border-color: var(--fg); }
       { s: 'ali', t: 'MH-ET LIVE D1 mini ESP32', p: 13.96, n: 'AU$12.69 + GST, no reviews yet', u: 'https://www.aliexpress.com/item/1005011854881192.html' },
       { s: 'ali', t: 'XCW D1 Mini LIVE ESP32', p: 8.68, n: 'AU$7.89 + GST, 3 sold', u: 'https://www.aliexpress.com/item/1005012595049946.html' } ] },
     { id: 'imu', name: 'GY-91 motion sensor', qty: '×1', why: "Measures tilt and rotation. The frame's screw holes are made for this board.", opts: [
-      { s: 'ali', t: 'GY-91 MPU9250 + BMP280', p: 7.21, n: 'AU$6.55 + GST, 34 sold, 5★', u: 'https://www.aliexpress.com/item/1005012661642808.html', rec: true },
+      { s: 'ali', t: 'GY-91 MPU9250 + BMP280', p: 13.45, n: 'AU$6.55 + AU$5.68 tracked shipping + GST, 8–17 days. 34 sold, 5★', u: 'https://www.aliexpress.com/item/1005012661642808.html', rec: true },
       { s: 'ebay', t: 'GY-91 (seller in Sydney)', p: 25.06, n: 'Free delivery, faster', u: 'https://www.ebay.com.au/itm/305516501101' } ] },
     { id: 'fets', name: 'UMW 100N03A transistors', qty: '×4 (sold in 5s)', why: 'Switch the motors on and off. Must be genuine UMW.', opts: [
       { s: 'lcsc', t: 'UMW 100N03A, pack of 5 (C668200)', p: 1.44, n: 'US$1.00, genuine, 66,210 in stock', u: 'https://www.lcsc.com/product-detail/C668200.html', rec: true },
@@ -171,13 +170,15 @@ button:hover { border-color: var(--fg); }
       { s: 'phaser', t: 'Gemfan 65 mm 2-blade, 2 packs', p: 2.90, n: 'A$1.45 each, in stock', u: 'https://phaserfpv.com.au/products/gemfan-65mm-2-blade-propellers', rec: true },
       { s: 'ali', t: 'Gemfan 65 mm, 4 pairs', p: 5.27, n: 'AU$4.79 + GST', u: 'https://www.aliexpress.com/item/1005003179700194.html' } ] },
     { id: 'batt', name: 'Batteries: 1S LiPo', qty: '×3', why: 'About 15 A is needed; both options supply that.', opts: [
-      { s: 'phaser', t: 'GNB 850 mAh 60C, A30 plug × 3', p: 32.85, n: 'A$10.95 each, 6 in stock, road shipping or pickup', u: 'https://phaserfpv.com.au/products/gaoneng-gnb-lihv-1s-38v-850mah-60c-a30-cabled-lipo-battery-long-range', rec: true, kind: 'a30' },
-      { s: 'ali', t: '952540 1000 mAh 25C, MX2.0 plug × 3 (README size)', p: 12.87, n: "AU$3.90 each + GST. LiPo delivery to Australia not confirmed", u: 'https://www.aliexpress.com/item/1005007322229008.html', kind: 'mx' } ] },
+      { s: 'phaser', t: 'GNB 850 mAh 60C, A30 plug × 3', p: 32.85, n: 'A$10.95 each, 6 in stock. This week by road or pickup, but about 15% less flight time', u: 'https://phaserfpv.com.au/products/gaoneng-gnb-lihv-1s-38v-850mah-60c-a30-cabled-lipo-battery-long-range', kind: 'a30' },
+      { s: 'ali', t: 'LW 952540 1000 mAh 25C × 3 + 5-port USB charger (the README pack)', p: 24.42, n: "Choose the \"3pcs with charger\" option: AU$14.29 + AU$7.91 tracked shipping + GST, 15–22 days. Shipping was quoted on the 1-pack option, so check the checkout matches. Seller Yalvboats, 4.8★, 315 sold", u: 'https://www.aliexpress.com/item/1005007341566219.html', rec: true, kind: 'mx', set: true } ] },
     { id: 'lead', name: 'Battery lead for the drone', qty: '×1', why: 'Soldered to the drone; must match the battery plug.', opts: [
-      { s: 'phaser', t: 'A30 female with cable (A30-F8080)', p: 1.74, n: 'For the GNB packs', u: 'https://phaserfpv.com.au/products/gaoneng-a30-connector-adapter-for-fpv-whoops-quads-lipo-battery', rec: true, kind: 'a30' },
-      { s: 'ali', t: 'MX2.0 2-pin male/female leads', p: 2.99, n: 'For 952540 packs. AU$2.72 + GST', u: 'https://www.aliexpress.com/item/1005004894470727.html', kind: 'mx' } ] },
+      { s: 'phaser', t: 'A30 female with cable (A30-F8080)', p: 1.74, n: 'For the GNB packs', u: 'https://phaserfpv.com.au/products/gaoneng-a30-connector-adapter-for-fpv-whoops-quads-lipo-battery', kind: 'a30' },
+      { s: 'ebay', t: 'MX2.0 2-pin leads, 5 male + 5 female (seller in Melbourne)', p: 12.38, n: 'For the 952540 packs. Free delivery from Australian stock, with spares', u: 'https://www.ebay.com.au/itm/800576027301', rec: true, kind: 'mx' },
+      { s: 'ali', t: 'MX2.0 2-pin male/female leads', p: 2.99, n: "For the 952540 packs. AU$2.72 + GST; this seller's shipping wasn't checked", u: 'https://www.aliexpress.com/item/1005004894470727.html', kind: 'mx' } ] },
     { id: 'charger', name: 'Battery charger', qty: '×1', why: 'Must match the battery plug and voltage.', opts: [
-      { s: 'phaser', t: 'ViFly WhoopStor V3', p: 54.99, n: 'A30 ports, standard and high-voltage modes, storage mode. Runs from a USB-C charger', u: 'https://phaserfpv.com.au/products/vifly-whoopstor-1s-lipo-charger-v3', rec: true, kind: 'a30' },
+      { s: null, t: 'The USB charger that comes in the AliExpress battery set', p: 0, n: "Its price is in the battery set. 5 ports, made for these packs. Slow but fine. The first time, check a full pack reads about 4.20 V, and charge on a non-flammable surface", rec: true, kind: 'mx', fromSet: true },
+      { s: 'phaser', t: 'ViFly WhoopStor V3', p: 54.99, n: 'A30 ports, standard and high-voltage modes, storage mode. Runs from a USB-C charger', u: 'https://phaserfpv.com.au/products/vifly-whoopstor-1s-lipo-charger-v3', kind: 'a30' },
       { s: 'phaser', t: 'BetaFPV 6-port V2 + 3 A30 adapters', p: 26.29, n: 'Budget. Includes power adapter. High-voltage 4.35 V only, which suits GNB packs only', u: 'https://phaserfpv.com.au/products/betafpv-6-ports-1s-battery-charger-adapter', kind: 'a30' },
       { s: 'buzz', t: 'HGLRC Thor 1S V2 (MX2.0 and A30)', p: 42.95, n: 'Handles both battery types, 4.20 or 4.35 V. Needs a 12 V USB-C PD supply', u: 'https://buzzfpv.com.au/products/hglrc-thor-1s-charger-v2-racing-model-fpv-drone-lithium-battery-6-way-charging-board-charger', kind: 'both' } ] },
     { sec: 'Camera and height sensor (can wait until it flies)', id: 'cam', name: 'Camera + video receiver', qty: 'set', why: 'The camera sends live video at 25 mW; the receiver plugs into your Android phone or laptop.', opts: [
@@ -192,7 +193,7 @@ button:hover { border-color: var(--fg); }
   ];
 
   const money = n => 'A$' + n.toFixed(2);
-  const KEY = 'flix-shop-v1';
+  const KEY = 'flix-shop-v2';
   const load = () => { try { return JSON.parse(localStorage.getItem(KEY) || 'null'); } catch (e) { return null; } };
   const save = v => { try { localStorage.setItem(KEY, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } };
   const recPick = () => Object.fromEntries(PARTS.map(p => [p.id, Math.max(0, p.opts.findIndex(o => o.rec))]));
@@ -201,7 +202,7 @@ button:hover { border-color: var(--fg); }
     let best = real[0][1];
     real.forEach(([o, i]) => { if (o.p < p.opts[best].p) best = i; });
     return [p.id, best];
-  }).concat([['batt', 0], ['lead', 0], ['charger', 1], ['cam', 0]]));
+  }).concat([['batt', 1], ['lead', 2], ['charger', 0], ['cam', 0]]));
   let state = Object.assign({ picks: recPick(), pickup: false }, load() || {});
   state.picks = Object.assign(recPick(), state.picks || {});
 
@@ -250,11 +251,13 @@ button:hover { border-color: var(--fg); }
       if (later) laterSum += o.p; else droneSum += o.p;
     });
     // compatibility warnings
-    const kind = id => (PARTS.find(p => p.id === id).opts[state.picks[id]] || {}).kind;
+    const opt = id => PARTS.find(p => p.id === id).opts[state.picks[id]] || {};
+    const kind = id => opt(id).kind;
     const b = kind('batt'), l = kind('lead'), c = kind('charger');
     const warn = (id, msg) => { const w = document.querySelector(`#${id}-0`).closest('.part').querySelector('.warn'); w.hidden = !msg; w.textContent = msg || ''; };
     warn('lead', b && l && b !== l ? (b === 'mx' ? 'Your batteries have MX2.0 plugs, so pick the MX2.0 lead.' : 'Your batteries have A30 plugs, so pick the A30 lead.') : '');
-    warn('charger', b === 'mx' && c === 'a30' ? 'These chargers have no MX2.0 ports, and the 6-port V2 would overcharge standard LiPo packs. Pick the Thor V2.' : '');
+    warn('charger', opt('charger').fromSet && !opt('batt').set ? 'This charger only comes in the AliExpress battery set. For the GNB packs, pick the WhoopStor, the 6-port or the Thor V2.'
+      : b === 'mx' && c === 'a30' ? "These chargers have no MX2.0 ports, and the 6-port V2 would overcharge standard LiPo packs. Use the set's charger or the Thor V2." : '');
 
     let shipTotal = 0;
     const ordEl = document.getElementById('orders');
